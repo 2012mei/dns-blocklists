@@ -435,6 +435,13 @@
       }
     },
     {
+      "PK": "blink.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bolt.new",
       "action": {
         "do": 1,
@@ -1093,6 +1100,13 @@
       }
     },
     {
+      "PK": "edgecdn.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "edgeless.top",
       "action": {
         "do": 1,
@@ -1290,6 +1304,13 @@
     },
     {
       "PK": "filepress.ink",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "filesafe.space",
       "action": {
         "do": 1,
         "status": 1
