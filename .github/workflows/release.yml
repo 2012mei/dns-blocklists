@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true    
 
 permissions:
   actions: write
@@ -14,13 +19,15 @@ permissions:
 jobs:
   release:
     runs-on: ubuntu-latest
-    if: contains(github.event.head_commit.message, 'release')
+    # if: contains(github.event.head_commit.message, 'release')
     steps:
       - name: Checkout
         uses: actions/checkout@v5
       - name: Generate release tag
+        env:
+         TZ: Asia/Bangkok
         run: |
-          repo_version=$(printf '%o' "$(date -u +"%Y")")$(date +'%Y.%-j').$((`date +%s` % 86400 ))
+          repo_version=$(date +%Y-%m-%d-%I%M-%p)
           echo "release_tag=$repo_version" >> $GITHUB_ENV
       - name: Generate issue list
         run: echo "issue_list=$(gh issue list -l fixed-pending-release  | cut -f1 | sed 's/^/#/' | sed 's/$/ /' | tr -d '\n\t\r')" >> $GITHUB_ENV
@@ -53,68 +60,6 @@ jobs:
         with:
           url: ${{ steps.purge_urls.outputs.urls }}
     needs: release
-
-  close-issues:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Comment and close fixed issues
-        uses: gcampbell-msft/fixed-pending-release@main
-        with:
-          token: ${{ github.token }}
-          label: fixed-pending-release
-          removeLabel: true
-          applyToAll: true
-          message: "This issue has been fixed in release [${releaseTag}](${releaseUrl})"
-    needs: release
-
-  relabel-issues:
-    runs-on: ubuntu-latest
-    steps:
-      - name: relabel
-        uses: actions/github-script@v8
-        with:
-          github-token: ${{ secrets.PAT }}
-          script: |
-            const labelToFind = 'scheduled-next-release';
-            const labelToAdd = 'fixed-pending-release';
-            
-            const { data: issues } = await github.rest.issues.listForRepo({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              state: 'open',
-              labels: labelToFind,
-              per_page: 100
-            });
-
-            for (const issue of issues) {
-              await github.rest.issues.removeLabel({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: issue.number,
-                name: labelToFind
-              });
-              
-              await github.rest.issues.addLabels({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: issue.number,
-                labels: [labelToAdd]
-              });
-            }
-    needs: [release, close-issues]
-
-  stale:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: DeMoorJasper/stale@v2.0.1
-      with:
-        repo-token: ${{ github.token }}
-        stale-message: 'This issue has been inactive for 14 days. Please add a comment to keep it open. Otherwise, it will be closed in 7 days.'
-        days-before-stale: 14
-        days-before-close: 7
-        stale-label: 'no-issue-activity'
-        dry-run: 'false'
-    needs: [release, close-issues]
         
   release-cleanup:
     runs-on: ubuntu-latest
@@ -123,7 +68,7 @@ jobs:
         uses: sgpublic/delete-release-action@v1.2
         with:
           release-drop: true
-          release-keep-count: 5
+          release-keep-count: 2
           release-drop-tag: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
@@ -137,6 +82,6 @@ jobs:
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
-          retain_days: 1
-          keep_minimum_runs: 0
-    needs: [release, close-issues, release-cleanup]
+          retain_days: 3
+          keep_minimum_runs: 3
+    needs: [release]
