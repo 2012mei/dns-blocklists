@@ -1079,6 +1079,13 @@
       }
     },
     {
+      "PK": "log32-normal-zr.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "log3-normal-c-alisg.tiktokv.com",
       "action": {
         "do": 0,
@@ -1632,6 +1639,13 @@
       }
     },
     {
+      "PK": "mon19-normal-zr-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon22-normal-alisg.tiktokv.com",
       "action": {
         "do": 0,
@@ -1668,6 +1682,13 @@
     },
     {
       "PK": "mon31-normal-useast1a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon31-normal-zr-useast1a.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1899,6 +1920,13 @@
     },
     {
       "PK": "mssdk22-normal-zr-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk22-normal-zr.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2151,13 +2179,6 @@
     },
     {
       "PK": "os-mon.snssdk.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "p0-common-image-private-useastred.eu.tiktok.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2472,6 +2493,13 @@
       }
     },
     {
+      "PK": "rtlog19-normal-zr-useast1a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "rtlog19-platform-useast5.us.tiktokv.com",
       "action": {
         "do": 0,
@@ -2543,6 +2571,20 @@
     },
     {
       "PK": "rtlog31-normal-useast2a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rtlog32-normal-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rtlog32-normal-zr.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1

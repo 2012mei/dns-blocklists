@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 00:09 UTC
-# Version: 2025.0905.0009.29
+# Last modified: 07 Sep 2025 20:16 UTC
+# Version: 2025.0907.2016.14
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1634
+# Number of entries: 1635
 #
 003153.xyz
 ns.00dani.me
@@ -378,6 +378,7 @@ dns.csswg.org
 cubedns.com
 qual.cuprum.ru
 dns.cwlys.com
+dns.cybertonic.tech
 cynntex.fun
 dns.cynthialabs.net
 dns.d365.in
@@ -1328,7 +1329,6 @@ lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
 r1bnc.com
-resolve2.r9x.cc
 dns.rabbitdns.org
 family.rabbitdns.org
 security.rabbitdns.org
@@ -1602,6 +1602,7 @@ doh2.gslb2.xfinity.com
 xholgm.top
 agh.xinfeng16m.top
 dns.xlion.tw
+xmr.land
 xn--durhre-yxa.de
 xorbiadns.com
 dns.xuming.studio

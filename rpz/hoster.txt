@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757024820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757269740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Sep 2025 22:27 UTC
-; Version: 2025.0904.2227.36
+; Last modified: 07 Sep 2025 18:29 UTC
+; Version: 2025.0907.1829.06
 ; Syntax: RPZ
-; Number of entries: 4244
+; Number of entries: 4252
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -427,6 +427,8 @@ blog.163.com CNAME .
 *.2u-2.com CNAME .
 350.com CNAME .
 *.350.com CNAME .
+3blogger.com CNAME .
+*.3blogger.com CNAME .
 3eeweb.com CNAME .
 *.3eeweb.com CNAME .
 42t.com CNAME .
@@ -805,6 +807,8 @@ bokee.com CNAME .
 *.bokee.com CNAME .
 bookmark.com CNAME .
 *.bookmark.com CNAME .
+boosterblog.com CNAME .
+*.boosterblog.com CNAME .
 boyblogguide.com CNAME .
 *.boyblogguide.com CNAME .
 bravehost.com CNAME .
@@ -1865,6 +1869,8 @@ wssblogs.com CNAME .
 *.wssblogs.com CNAME .
 wtcsites.com CNAME .
 *.wtcsites.com CNAME .
+wuaze.com CNAME .
+*.wuaze.com CNAME .
 wy5532.com CNAME .
 *.wy5532.com CNAME .
 xanco.com CNAME .
@@ -3991,6 +3997,8 @@ zapacesauto.shop CNAME .
 *.zapacesauto.shop CNAME .
 zepatifcommerce.shop CNAME .
 *.zepatifcommerce.shop CNAME .
+9x.si CNAME .
+*.9x.si CNAME .
 blogspot.si CNAME .
 *.blogspot.si CNAME .
 business.site CNAME .

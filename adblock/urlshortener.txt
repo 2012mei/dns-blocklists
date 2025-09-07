@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Sep 2025 22:28 UTC
-! Version: 2025.0904.2228.01
+! Last modified: 07 Sep 2025 18:29 UTC
+! Version: 2025.0907.1829.30
 ! Syntax: AdBlock
-! Number of entries: 6319
+! Number of entries: 6354
 !
 ||0.gp^
 ||00m.in^
@@ -32,6 +32,7 @@
 ||0bs.de^
 ||0i.is^
 ||0ln.io^
+||0o.lv^
 ||0oj.cn^
 ||0rl.cc^
 ||0rz.tw^
@@ -225,6 +226,7 @@
 ||4x.si^
 ||5.gp^
 ||51tu.lol^
+||52.nu^
 ||5278url.com^
 ||531566.xyz^
 ||53eig.ht^
@@ -423,6 +425,7 @@
 ||adv.li^
 ||advartiso.com^
 ||adweek.it^
+||adx.kr^
 ||ady.to^
 ||aegyo.me^
 ||aet.na^
@@ -443,6 +446,7 @@
 ||ah.my^
 ||aholink.com^
 ||y.ahoo.it^
+||ahpit.cyou^
 ||mylink.ai.in^
 ||ai18.link^
 ||ai6.net^
@@ -541,6 +545,7 @@
 ||anon.to^
 ||anp.su^
 ||ansg.media^
+||answ.xyz^
 ||antinawala.team^
 ||any.gs^
 ||anyimage.io^
@@ -639,6 +644,7 @@
 ||avbc.me^
 ||aveerro.com^
 ||aven.ga^
+||avenir.to^
 ||avhop.net^
 ||avl.mx^
 ||avlne.ws^
@@ -649,6 +655,7 @@
 ||avydn.co^
 ||awobio.id^
 ||aws.tl^
+||aww.al^
 ||awwurl.com^
 ||awy.to^
 ||axees.ir^
@@ -691,6 +698,7 @@
 ||r.babscon.com^
 ||bacc666.mobi^
 ||bacn.me^
+||bagi.link^
 ||baid.us^
 ||baixeapk.com^
 ||balls.no^
@@ -728,12 +736,14 @@
 ||beam.to^
 ||beats.is^
 ||beautyfitnesshealth.com^
+||becakrcg.xyz^
 ||becsn.net^
 ||bee-kz.life^
 ||bee1s.com^
 ||bee4.biz^
 ||beeb.us^
 ||beepurl.com^
+||beif.us^
 ||beingtek.com^
 ||bely.pw^
 ||benco.io^
@@ -809,6 +819,7 @@
 ||bitly.pk^
 ||bitly.pw^
 ||bitly.team^
+||bitly.to^
 ||bitly.ws^
 ||bitly1.ru^
 ||bitlylinks.com^
@@ -1237,6 +1248,7 @@
 ||natura.com.vc^
 ||salesadvisor.nazriproton.com.my^
 ||shortlink.com.au^
+||shortlinks.com.tr^
 ||tim.com.vc^
 ||useek.com.au^
 ||comca.st^
@@ -1316,6 +1328,7 @@
 ||cut.ovh^
 ||cut.pe^
 ||cut.sk^
+||cut-ly.com^
 ||cut2.ir^
 ||cutcut.uk^
 ||cute.link^
@@ -1695,6 +1708,7 @@
 ||es.pn^
 ||escape.to^
 ||esgr.xyz^
+||eshort.net^
 ||esilkroads.com^
 ||esl.gg^
 ||eslite.me^
@@ -2144,6 +2158,7 @@
 ||has.coffee^
 ||hashi.co^
 ||hatl.ink^
+||haur.be^
 ||hausarzt.link^
 ||hbaz.co^
 ||hblab.me^
@@ -2311,6 +2326,7 @@
 ||icks.ro^
 ||icutlink.com^
 ||icux.xyz^
+||one.icykit.com^
 ||amirhossein.id.ir^
 ||go.id.me^
 ||idek.net^
@@ -2410,6 +2426,7 @@
 ||invy.in^
 ||inx.lv^
 ||inx.name^
+||iny.me^
 ||ionos.ly^
 ||t.iotex.me^
 ||ipgrab.org^
@@ -2456,6 +2473,7 @@
 ||itrk.it^
 ||its-4-u.com^
 ||itsh.bo^
+||itshrt.com^
 ||itsssl.com^
 ||ittle.co^
 ||itty.be^
@@ -2699,6 +2717,7 @@
 ||kut.rs^
 ||kutt.it^
 ||kuttify.com^
+||kuty.us^
 ||kuyla.me^
 ||kv.ci^
 ||kve.so^
@@ -2834,6 +2853,7 @@
 ||link-cut.com^
 ||link-me.vip^
 ||link-trim.in^
+||link-zy.com^
 ||link1s.com^
 ||link1s.net^
 ||link1s.top^
@@ -3001,7 +3021,6 @@
 ||little.im^
 ||littlelinkapp.com^
 ||littlelnk.com^
-||littleurl.app^
 ||littleurl.in^
 ||litty.in^
 ||liu.es^
@@ -3365,6 +3384,7 @@
 ||mongmuoinam.life^
 ||mongmuoisau.life^
 ||mongmuoitam.live^
+||monly.id^
 ||mono-gog-o.life^
 ||monopolycollectdice.xyz^
 ||monopolygodices.xyz^
@@ -3497,6 +3517,7 @@
 ||n7i.cn^
 ||n9.cl^
 ||n9x.co^
+||na2.com^
 ||na5.nl^
 ||nah.uy^
 ||naik-terus.com^
@@ -3556,6 +3577,7 @@
 ||nfw.cz^
 ||ng.je^
 ||nglink.id^
+||ngnbrand.com^
 ||ngrid.com^
 ||nicou.ch^
 ||nie.ge^
@@ -3843,6 +3865,7 @@
 ||peoplem.ag^
 ||peppy.link^
 ||pepsi.co^
+||perseal.app^
 ||persocheck.com^
 ||pesc.pw^
 ||petesmarketinghub.com^
@@ -4063,6 +4086,7 @@
 ||qrfy.io^
 ||qrgenerator.org^
 ||qrisni.me^
+||qrkiss.com^
 ||qrlinker.net^
 ||qrlit.com^
 ||qrme.be^
@@ -4213,6 +4237,7 @@
 ||reshort.com^
 ||reshortfly.com^
 ||resmiteratai888.us^
+||resvoice.com^
 ||rethinktw.cc^
 ||retireetravelcare.sbs^
 ||retont.link^
@@ -4322,6 +4347,7 @@
 ||safelinking.net^
 ||safelinku.com^
 ||safeurl.ch^
+||safeurl.in^
 ||safl.it^
 ||saggiolink.it^
 ||sah.ooo^
@@ -4675,6 +4701,7 @@
 ||shrt.vip^
 ||shrtco.de^
 ||shrten.com^
+||shrten.us^
 ||shrtfly.com^
 ||shrtlk.click^
 ||shrtlnk.com^
@@ -4683,6 +4710,8 @@
 ||shrtn.ee^
 ||shrtq.link^
 ||shrtr.cc^
+||shrtru.com^
+||shrturl.com^
 ||shrturl.site^
 ||shrturll.com^
 ||shrtxb4d.live^
@@ -4714,6 +4743,7 @@
 ||sieduc.digital^
 ||sifu.im^
 ||sigboms.com^
+||siguiente.link^
 ||sikencang.com^
 ||sikilat.fun^
 ||sikk.de^
@@ -5031,6 +5061,7 @@
 ||tapetco.vn^
 ||taplink.cc^
 ||tapme.ink^
+||tapmy.app^
 ||tapto.bio^
 ||tapz.in^
 ||targeterpro.com^
@@ -5601,10 +5632,12 @@
 ||tap.urlklik.com^
 ||twg.urlklik.com^
 ||urlkr.com^
+||urlkw.com^
 ||urlky.com^
 ||urlli.com^
 ||urllimit.com^
 ||urllink.link^
+||urllinker.com^
 ||urlme.cc^
 ||urlme.us^
 ||urlmy.link^
@@ -6168,6 +6201,7 @@
 ||ykm.de^
 ||ylg.org^
 ||ylink.bid^
+||ylinkshort.com^
 ||yo.ma^
 ||yoalizer.com^
 ||yogh.me^
@@ -6287,6 +6321,7 @@
 ||zoho.to^
 ||zom.ink^
 ||zom.io^
+||zonearcad.xyz^
 ||zoneurl.net^
 ||zoodl.com^
 ||zop.gr^

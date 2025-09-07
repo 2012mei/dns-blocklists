@@ -1519,6 +1519,13 @@
       }
     },
     {
+      "PK": "doe.cash",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "doesmycode.work",
       "action": {
         "do": 1,
@@ -3241,6 +3248,13 @@
       }
     },
     {
+      "PK": "livwell.asia",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.llc",
       "action": {
         "do": 0,
@@ -3543,6 +3557,13 @@
     },
     {
       "PK": "*.men",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.menu",
       "action": {
         "do": 0,
         "status": 1
@@ -4322,6 +4343,13 @@
       "PK": "*.photos",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "photostore24.online",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -5372,6 +5400,13 @@
       "PK": "*.space",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "spankbang.mov",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -7647,13 +7682,6 @@
       "PK": "*.you",
       "action": {
         "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "yts.monster",
-      "action": {
-        "do": 1,
         "status": 1
       }
     },

@@ -1030,6 +1030,13 @@
       }
     },
     {
+      "PK": "doe.cash",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "doesmycode.work",
       "action": {
         "do": 1,
@@ -2290,6 +2297,13 @@
       }
     },
     {
+      "PK": "livwell.asia",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "localise.biz",
       "action": {
         "do": 1,
@@ -3060,6 +3074,13 @@
       }
     },
     {
+      "PK": "photostore24.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "picsee.ltd",
       "action": {
         "do": 1,
@@ -3782,6 +3803,13 @@
     },
     {
       "PK": "social.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "spankbang.mov",
       "action": {
         "do": 1,
         "status": 1
@@ -4643,13 +4671,6 @@
     },
     {
       "PK": "yoox.biz",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "yts.monster",
       "action": {
         "do": 1,
         "status": 1

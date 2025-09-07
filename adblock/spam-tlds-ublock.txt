@@ -11,17 +11,17 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Sep 2025 16:19 UTC
-! Version: 2025.0904.1619.56
+! Last modified: 07 Sep 2025 10:17 UTC
+! Version: 2025.0907.1017.22
 ! Syntax: uBlock
-! Number of latin TLDs: 280 - non-latin TLDs: 151
+! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
 ||agency^$doc,domain=~apptoro.agency|~baam.agency|~battlefield.agency|~byteful.agency|~robotzebra.agency|~uphotel.agency|~usenet.agency|~ws.agency
 ||apartments^$doc
 ||army^$doc,domain=~phishing.army
-||asia^$doc,domain=~amzn.asia|~autoads.asia|~bandainamcoent.asia|~dbankcloud.asia|~disney.asia|~elgaucho.asia|~homelands.asia|~pansci.asia|~rainviewer.asia|~shopdisney.asia
+||asia^$doc,domain=~amzn.asia|~autoads.asia|~bandainamcoent.asia|~dbankcloud.asia|~disney.asia|~elgaucho.asia|~homelands.asia|~livwell.asia|~pansci.asia|~rainviewer.asia|~shopdisney.asia
 ||auction^$doc
 ||autos^$doc
 ||baby^$doc
@@ -49,7 +49,7 @@
 ||capital^$doc,domain=~scalable.capital
 ||careers^$doc,domain=~commonspirit.careers
 ||casa^$doc,domain=~nabu.casa
-||cash^$doc
+||cash^$doc,domain=~doe.cash
 ||casino^$doc
 ||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~ptt.cc|~rapidcdn.cc|~rutracker.cc|~shottr.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~zcyph.cc
 ||center^$doc,domain=~mein-kunden.center|~oh.center|~priv.center|~relaxx.center
@@ -168,15 +168,16 @@
 ||markets^$doc
 ||mba^$doc
 ||men^$doc,domain=~virgile.men
+||menu^$doc
 ||miami^$doc
 ||ml^$doc,domain=~aire.ml|~amap.ml|~fmhy.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml
 ||moda^$doc
 ||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cubari.moe|~ddlc.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~uma.moe
 ||mom^$doc
 ||money^$doc,domain=~flowyour.money|~unstoppable.money|~vivid.money
-||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster
+||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster
 ||motorcycles^$doc
-||mov^$doc,domain=~david.mov|~peerflix.mov|~pstream.mov
+||mov^$doc,domain=~david.mov|~peerflix.mov|~pstream.mov|~spankbang.mov
 ||name^$doc,domain=~chris.boyle.name|~davidwalsh.name|~stefvanbuuren.name|~vlo.name
 ||navy^$doc
 ||new^$doc,domain=~bolt.new|~doc.new|~drawing.new|~form.new|~git.new|~lecture.new|~postgres.new|~sheet.new|~site.new|~slide.new
@@ -187,7 +188,7 @@
 ||okinawa^$doc
 ||ong^$doc
 ||onl^$doc,domain=~gc.onl
-||online^$doc,domain=~adguard-vpn.online|~argon2.online|~blink.online|~dancewave.online|~discuss.online|~eufh.online|~flexilead.online|~geoigarape.online|~instructions.online|~manuals.online|~open.online|~radarpayment.online|~randemretail.online|~ravendawn.online|~shueisha.online|~vmwesa.online
+||online^$doc,domain=~adguard-vpn.online|~argon2.online|~blink.online|~dancewave.online|~discuss.online|~eufh.online|~flexilead.online|~geoigarape.online|~instructions.online|~manuals.online|~open.online|~photostore24.online|~radarpayment.online|~randemretail.online|~ravendawn.online|~shueisha.online|~vmwesa.online
 ||ooo^$doc,domain=~term.ooo|~toast.ooo
 ||partners^$doc,domain=~stripe.partners|~xh.partners
 ||parts^$doc

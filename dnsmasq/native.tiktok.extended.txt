@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Sep 2025 14:18 UTC
-# Version: 2025.0901.1418.45
+# Last modified: 05 Sep 2025 23:18 UTC
+# Version: 2025.0905.2318.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 452
+# Number of entries: 458
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -113,7 +113,6 @@ local=/analytics-test.tiktok.com/
 local=/analytics-useast2a.tiktok.com/
 local=/analytics-v6.tiktok.com/
 local=/business-api.tiktok.com/
-local=/p0-common-image-private-useastred.eu.tiktok.com/
 local=/ads.in.tiktok.com/
 local=/location.tiktok.com/
 local=/location-i18n.tiktok.com/
@@ -230,6 +229,7 @@ local=/log32-normal-alisg.tiktokv.com/
 local=/log32-normal-no1a.tiktokv.eu/
 local=/log32-normal-useast1a.tiktokv.com/
 local=/log32-normal-useast2a.tiktokv.com/
+local=/log32-normal-zr.tiktokv.com/
 local=/log53-normal-c-useast1a.tiktokv.com/
 local=/log58-normal.tiktokv.com/
 local=/log58-normal-alisg.tiktokv.com/
@@ -280,12 +280,14 @@ local=/mon16-tmp-normal-useast1a.tiktokv.com/
 local=/mon19-normal.tiktokv.com/
 local=/mon19-normal-alisg.tiktokv.com/
 local=/mon19-normal-useast1a.tiktokv.com/
+local=/mon19-normal-zr-alisg.tiktokv.com/
 local=/mon22-normal.tiktokv.com/
 local=/mon22-normal-alisg.tiktokv.com/
 local=/mon22-normal-useast1a.tiktokv.com/
 local=/mon31-normal.tiktokv.com/
 local=/mon31-normal-alisg.tiktokv.com/
 local=/mon31-normal-useast1a.tiktokv.com/
+local=/mon31-normal-zr-useast1a.tiktokv.com/
 local=/mon32-normal.tiktokv.com/
 local=/mon32-normal-alisg.tiktokv.com/
 local=/mon32-normal-useast1a.tiktokv.com/
@@ -310,6 +312,7 @@ local=/mssdk22-normal.tiktokv.com/
 local=/mssdk22-normal-alisg.tiktokv.com/
 local=/mssdk22-normal-useast1a.tiktokv.com/
 local=/mssdk22-normal-useast2a.tiktokv.com/
+local=/mssdk22-normal-zr.tiktokv.com/
 local=/mssdk22-normal-zr-alisg.tiktokv.com/
 local=/mssdk22-normal-zr-useast1a.tiktokv.com/
 local=/mssdk23-normal-zr-alisg.tiktokv.com/
@@ -362,6 +365,7 @@ local=/rtlog19-normal.tiktokv.com/
 local=/rtlog19-normal-alisg.tiktokv.com/
 local=/rtlog19-normal-useast1a.tiktokv.com/
 local=/rtlog19-normal-useast2a.tiktokv.com/
+local=/rtlog19-normal-zr-useast1a.tiktokv.com/
 local=/rtlog22-applog-useast1a.tiktokv.com/
 local=/rtlog22-applog-useast2a.tiktokv.com/
 local=/rtlog22-normal.tiktokv.com/
@@ -372,6 +376,8 @@ local=/rtlog31-normal.tiktokv.com/
 local=/rtlog31-normal-alisg.tiktokv.com/
 local=/rtlog31-normal-useast1a.tiktokv.com/
 local=/rtlog31-normal-useast2a.tiktokv.com/
+local=/rtlog32-normal-alisg.tiktokv.com/
+local=/rtlog32-normal-zr.tiktokv.com/
 local=/rtlog58-normal.tiktokv.com/
 local=/rtlog58-normal-alisg.tiktokv.com/
 local=/rtlog58-normal-useast1a.tiktokv.com/

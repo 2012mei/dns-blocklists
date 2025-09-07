@@ -15,6 +15,7 @@
 @@||disney.asia^
 @@||elgaucho.asia^
 @@||homelands.asia^
+@@||livwell.asia^
 @@||pansci.asia^
 @@||rainviewer.asia^
 @@||shopdisney.asia^
@@ -61,6 +62,7 @@
 @@||scalable.capital^
 @@||commonspirit.careers^
 @@||nabu.casa^
+@@||doe.cash^
 @@||10gen.cc^
 @@||adguard-vpn.cc^
 @@||akami-solutions.cc^
@@ -316,10 +318,10 @@
 @@||mortgage.monster^
 @@||rollenspiel.monster^
 @@||tts.monster^
-@@||yts.monster^
 @@||david.mov^
 @@||peerflix.mov^
 @@||pstream.mov^
+@@||spankbang.mov^
 @@||chris.boyle.name^
 @@||davidwalsh.name^
 @@||stefvanbuuren.name^
@@ -349,6 +351,7 @@
 @@||instructions.online^
 @@||manuals.online^
 @@||open.online^
+@@||photostore24.online^
 @@||radarpayment.online^
 @@||randemretail.online^
 @@||ravendawn.online^
