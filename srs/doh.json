@@ -845,6 +845,9 @@
       "domain_suffix": "dns.connect.fail"
     },
     {
+      "domain_suffix": "dns.containerpi.com"
+    },
+    {
       "domain_suffix": "dns.controld.com"
     },
     {
@@ -1385,6 +1388,9 @@
       "domain_suffix": "v.dnscrypt.uk"
     },
     {
+      "domain_suffix": "dnsenc.com"
+    },
+    {
       "domain_suffix": "dnsforfamily.com"
     },
     {
@@ -1530,6 +1536,9 @@
     },
     {
       "domain_suffix": "osefcorp.duckdns.org"
+    },
+    {
+      "domain_suffix": "punono.duckdns.org"
     },
     {
       "domain_suffix": "tuandns.duckdns.org"
@@ -1712,6 +1721,9 @@
       "domain_suffix": "dns.filipccz.eu"
     },
     {
+      "domain_suffix": "dns.fizz.studio"
+    },
+    {
       "domain_suffix": "doh.flashstart.com"
     },
     {
@@ -1887,6 +1899,9 @@
     },
     {
       "domain_suffix": "dns.guard.io"
+    },
+    {
+      "domain_suffix": "dns.guardmydns.com"
     },
     {
       "domain_suffix": "dns2.guidocioni.it"
@@ -2772,6 +2787,9 @@
     },
     {
       "domain_suffix": "fwgw.orangepipc.mywire.org"
+    },
+    {
+      "domain_suffix": "dns.mzjtechnology.com"
     },
     {
       "domain_suffix": "dns.mzrme.cn"

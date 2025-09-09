@@ -52,6 +52,7 @@ oe24cdn.biz
 ooshahwa.biz
 panasonic.biz
 slussen.biz
+surveycake.biz
 volvocars.biz
 wiz.biz
 wspay.biz
@@ -469,6 +470,7 @@ platformsh.site
 privacy-test-pages.site
 reddit-doesnt-like-this.site
 srht.site
+toast.site
 wishonly.site
 wolow.site
 wpdns.site

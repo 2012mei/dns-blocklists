@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Sep 2025 18:29 UTC
-# Version: 2025.0907.1829.30
+# Last modified: 09 Sep 2025 06:48 UTC
+# Version: 2025.0909.0648.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 6354
+# Number of entries: 6386
 #
 0.gp
 00m.in
@@ -755,6 +755,7 @@ bestshortlink.com
 betaloop.io
 beteshis.com
 beth.games
+betterlinks.io
 beurl.app
 bez.link
 bezlink.com
@@ -933,6 +934,7 @@ brightestbeginning.me
 brilink.me
 brisktopia.com
 briurl.com
+brk.to
 brndly.net
 brook.gs
 browsen.de
@@ -1175,6 +1177,7 @@ clktrack.com
 clmp.me
 clockurl.com
 clotplaynews.live
+cloudfare.icu
 cloudku.click
 cloudradar.net
 cloudshrinker.com
@@ -1235,6 +1238,7 @@ cofe.io
 coinbarlink.net
 coinbot.kr
 coinclix.co
+coinpr.info
 coinreal-us.com
 coki.me
 coklat.vip
@@ -1308,6 +1312,7 @@ ctr.sh
 ctse-registry.com
 ctx.ink
 cu7.co
+cuk.one
 cukbaray.com
 cultm.ac
 cuoinamdiedm.life
@@ -1444,6 +1449,7 @@ deli.bz
 deliverable.email
 dell.to
 deloi.tt
+delta.live
 dems.me
 desin.me
 wwww.destockdrive.com
@@ -1487,6 +1493,7 @@ discvr.co
 disq.us
 dive.pub
 divsly.com
+djarum88.shop
 djbanshi.net
 djp.li
 djurl.com
@@ -1738,6 +1745,7 @@ exploreosv.com
 exx.us
 eyq.me
 ez1.cc
+ezbio.me
 ezbz.me
 ezc.vc
 ezclick.me
@@ -1765,6 +1773,7 @@ facebookid.live
 fadurl.com
 fal.cn
 fam.ag
+famousurl.com
 famu.cc
 fandan.co
 fandom.link
@@ -1827,7 +1836,9 @@ flic.kr
 flickerlink.com
 flii.by
 flink.is
+flinkio.com
 flip.it
+fliplink.io
 fllw.link
 flomuz.io
 flow.page
@@ -2068,6 +2079,7 @@ golink.one
 golink.us
 golinker.in
 golinkfy.io
+golnk.eu
 goly.me
 gomomento.co
 goninja.live
@@ -2125,6 +2137,7 @@ grb.to
 grc.sc
 grdt.ai
 grem.io
+gresham.life
 grk.am
 grlu.us
 grm.my
@@ -2149,6 +2162,7 @@ h2apz.com
 h3x.ir
 haa.su
 hab.cx
+hadsucma.com
 d.halent.cn
 hammerthoritaly.com
 han.gl
@@ -2171,6 +2185,7 @@ healthiermemphis.org
 heartofthenorthtours.link
 hec.su
 st.hellogil.com
+hellowork.life
 help-on.com
 app.helpline-app.com
 view.helpline-app.com
@@ -2342,6 +2357,7 @@ shlink-app.ifo.am
 ift.cx
 ift.tt
 ige.li
+igit.me
 iherb.co
 ihnpo.com
 ihor.se
@@ -2401,8 +2417,10 @@ inicio.link
 inkristal777.motorcycles
 inlnk.ru
 inmusic.to
+inreply.to
 insdr.life
 inshort.link
+inshorten.com
 inshorturl.com
 insig.ht
 insighturl.com
@@ -2465,8 +2483,10 @@ kutt.itarian.com
 itdad.info
 iterasi.net
 iti.bz
+itiny.in
 itiy.in
 itly.in
+itm.im
 itop.so
 itp24.com
 itrk.it
@@ -2534,6 +2554,7 @@ jif.li
 jii.li
 jijr.com
 jio.sh
+jio.to
 jiourl.com
 jitupro.com
 jitupro.org
@@ -2660,6 +2681,7 @@ klickhier.at
 klik.best
 klik.gg
 klik.top
+kliks.online
 kliksaja.me
 kliksaya.co
 klink.red
@@ -2694,6 +2716,7 @@ kr.pe
 kr3w.de
 kratsi.cz
 krazy.la
+kristal777.us
 kro.kr
 krohne.link
 krpcgvm.wiki
@@ -2736,6 +2759,7 @@ l1nx.ai
 l24.im
 l2f.ca
 l2g.hu
+l2o.ir
 l338.co
 l8.nu
 l8r.it
@@ -2870,6 +2894,7 @@ linkaku.pro
 linkallstar.com
 linkalp.com
 linkapp.click
+linkasd.com
 linkasli.pro
 linkb.ee
 linkbear.me
@@ -2937,6 +2962,7 @@ linkku-kt.com
 linkku-ob.com
 linkku-pl.com
 linkku-pn.com
+linkku-rp.com
 linkku-sd.com
 linkku-st.com
 linkku-wt.com
@@ -3248,6 +3274,7 @@ mck.co
 mcni.it
 mcys.co
 mdcr1.com
+mdklt.com
 mdl.town
 mdl29.net
 mdmblz.com
@@ -3578,6 +3605,7 @@ ng.je
 nglink.id
 ngnbrand.com
 ngrid.com
+nhbvi.com
 nicou.ch
 nie.ge
 nig.gr
@@ -4854,6 +4882,7 @@ snip.ly
 snip.ng
 snipi.io
 sniply.io
+sniplytics.com
 snipmojo.com
 snipp.dev
 snipqr.com
@@ -5726,6 +5755,7 @@ url.usacomment.com
 usanet.tv
 usat.ly
 use.my
+useclick.io
 uselinkwizard.com
 userlinks.in
 useshort.com
@@ -6120,8 +6150,10 @@ xmlr.link
 xn--57h.ws
 xn--a-4ka.eu
 xn--k28h.tk
+xn--ka-uja.fr
 xn--krz-8na.de
 xn--ms8h.st
+xn--ru-via.me
 xn--s7y86k.jp
 xn--ugt.cc
 xn--ul-ksa.eu
