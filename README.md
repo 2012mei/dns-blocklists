@@ -375,16 +375,22 @@ IPv4 lists in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blo
 ### :new: **Newly Registered Domains (NRD)** <a name="nrd"></a>
 
 Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. However, relying on NRDs alone risks false positives since legitimate organizations also register new domains for branding or infrastructure.
-     
-The daily NRD data in plain domain format is stored in the [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) with filenames following the pattern `nrd_YYYY-MM-DD.txt`. Each file corresponds to a single day, and the last 31 days of data are available.     
+        
+| Time<br>period | Format<br>AdBlock | Format<br>Domains |         
+|:--------------:|:-----------------:|:-----------------:|
+| 7 days ago to yesterday    | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nrd7.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd7.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd7.txt) | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/nrd7.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd7.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd7.txt) |
+| 14 days ago to 8 days ago  | | |
+| 21 days ago to 15 days ago | | |
+| 28 days ago to 22 days ago | | |
+| 35 days ago to 29 days ago | | |
+             
+The daily NRD raw data in plain domain format is stored in the [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) with filenames following the pattern `nrd_YYYY-MM-DD.txt`. Each file corresponds to a single day, and the last 35 days of data are available.     
                        
 > [!TIP]
 > Daily NRDs can be used for advanced analyses, domain extraction based on specific patterns, or for generating custom NRD lists spanning defined time periods (e.g., 7, 14, 21, or 31 days).              
 >                             
-> The [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) includes a Bash script named `merge_nrds_days.sh` for compiling NRD lists over a specified number of days. For example, to generate a 7-day NRD list, use the command: `merge_nrds_days.sh 7 /share /share/nrds-7-days.txt`
-                
-> [!NOTE]
-> Plans are underway to provide combined Newly Registered Domain (NRD) lists for multiple time periods, including 7, 14, 21, and 31 days.
+> The [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) includes a Bash script named `merge_nrds_days.sh` for compiling NRD lists over a specified number of days. For example, to generate a 7-day NRD list, use the command:                     
+> `merge_nrds_days.sh 7 /share /share/nrds-7-days.txt`
 
 ---
 

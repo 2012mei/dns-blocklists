@@ -674,3 +674,5 @@ makea.zip
 transfer.zip
 uploaded-files.zip
 voron.zip
+onlinesizing.bike
+dyn.sport
