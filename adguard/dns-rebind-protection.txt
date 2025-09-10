@@ -14,5 +14,4 @@
 /^fe80:/
 
 ! Host
-/^localhost$/
 /^([a-z0-9\-]+\.)?(localhost|localdomain|ip6-localhost)$/
