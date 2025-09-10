@@ -808,9 +808,17 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
 
+#### :department_store: **DNSBUNKER.org (Germany) - free** <a name="dnsbunker"></a>
+
+[DNSBUNKER.org](https://dnsbunker.org/) uses my Pro++ in combination with the TIF blocklist and the allowlist Referral.
+
+| Blocklists | DNS-over-HTTPS/3 | DNS-over-TLS/QUIC |
+|:-----------|:---------------|:------------------|
+| Pro plus + TIF  | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` |
+
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 
-[OpenBLD.net](https://openbld.net/docs/get-started/third-party-filters/hagezi/) uses my Multi Pro in combination with the TIF blocklist.
+[OpenBLD.net](https://openbld.net/docs/get-started/third-party-filters/hagezi/) uses my Pro in combination with the TIF blocklist.
 
 | Blocklists | DNS-over-HTTPS | 
 |:-----------|:---------------|
