@@ -560,6 +560,7 @@ futurology.today
 lemmy.today
 oldweb.today
 type.today
+tmaeno.tokyo
 ambr.top
 caitlin.top
 corriente.top
