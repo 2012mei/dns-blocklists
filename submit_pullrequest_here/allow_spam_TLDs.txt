@@ -441,6 +441,7 @@ kalypso.shop
 majblomman.shop
 munu.shop
 music-merchant.shop
+nocut.shop
 nordland.shop
 owl-dampfer.shop
 prohibited.shop
@@ -663,6 +664,7 @@ wetdry.world
 wiz.world
 akko.wtf
 cyber.wtf
+fx.wtf
 ip.wtf
 lemmy.wtf
 myip.wtf
@@ -677,4 +679,3 @@ makea.zip
 transfer.zip
 uploaded-files.zip
 voron.zip
-fx.wtf

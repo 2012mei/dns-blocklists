@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Sep 2025 08:25 UTC
-# Version: 2025.0910.0825.37
+# Last modified: 10 Sep 2025 16:05 UTC
+# Version: 2025.0910.1605.12
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 68309
+# Number of entries: 68343
 #
 *.0-bdmbet.com
 *.0-casino.info
@@ -7256,7 +7256,6 @@
 *.3brjogos.com
 *.3btc.org
 *.3casino.vip
-*.3casinobezdep.club
 *.3casoo.com
 *.3ciliospg.com
 *.3cncbet.com
@@ -8700,7 +8699,6 @@
 *.66ku.top
 *.66ky.top
 *.66nn55.com
-*.66obetsmove.com
 *.66phmaya.com
 *.66qh88.com
 *.66qh99.com
@@ -11049,6 +11047,7 @@
 *.8x0322.com
 *.8x0343.com
 *.8x0355.com
+*.8x0544.com
 *.8x0589.com
 *.8x0643.com
 *.8x0665.com
@@ -12589,7 +12588,6 @@
 *.aguacalientecasinoshowroom.net
 *.aguia777pg.com
 *.aguiajogo.com
-*.aguub88.club
 *.aha888.vip
 *.ahacasino.com
 *.ahadubirr.com
@@ -13037,8 +13035,6 @@
 *.amazingcasinoslotsgamez.com
 *.amazingcasinoslotzlivegamez.com
 *.amazingearnings.com
-*.amazingpokerxcasinogamez.com
-*.amazingroulettecasinogamez.com
 *.amazingshrooms.co
 *.amazingslotsxcasinogamez.com
 *.amazon-slots.com
@@ -13105,7 +13101,6 @@
 *.amigobingo.com
 *.amigowinscasino.net
 *.amin4d888.site
-*.amintotobest.lol
 *.amiri111.com
 *.amirsparlor.com
 *.amitriptyline.monster
@@ -15578,7 +15573,6 @@
 *.bestslotsgame.net
 *.bestslotssite.net
 *.bestslotsworld.com
-*.bestslotxcasino.com
 *.bestslotzcasino.com
 *.beststarcasinos.com
 *.beststerlingcasinos.shop
@@ -19661,7 +19655,6 @@
 *.calneva.casino
 *.calon4d11.com
 *.calon4dimpian.vip
-*.calon4dmenarik.store
 *.calon4dterbaik.vip
 *.calonbigboss.xyz
 *.calottery.com
@@ -24941,19 +24934,15 @@
 *.cheapblackjackcasino.com
 *.cheapblackjackxcasino.com
 *.cheapcarinsurancefc.top
-*.cheapcasinoblackjacklive.com
 *.cheapcasinocardgames.com
 *.cheapcasinogamez.com
-*.cheapcasinotablegames.com
 *.cheapjackpotscasinogamez.com
 *.cheapjerseysgears.com
 *.cheapjokerpokerlive.com
-*.cheapjokerpokerlivegame.com
 *.cheappokergames.com
 *.cheappokergamezxcasino.com
 *.cheappokerlivecasino.com
 *.cheaprouletteacasinogames.com
-*.cheaproulettecasinolive.com
 *.cheapslotscasino.com
 *.cheapslotscasinoaz.com
 *.cheapslotscasinogamez.com
@@ -24983,7 +24972,6 @@
 *.chemgio.club
 *.chempionslots.cyou
 *.chempionslots.pics
-*.chen-casino.support
 *.chericasino.com
 *.chericasino.top
 *.cherokeecasino.com
@@ -27331,6 +27319,7 @@
 *.da87.com
 *.da88.com
 *.da88.pro
+*.da88.vip
 *.da88.win
 *.da88vip.com
 *.da88vn.win
@@ -28336,6 +28325,7 @@
 *.dollycasino5.com
 *.dollycasinoaustralia.org
 *.dom-pokerdom.buzz
+*.dom88.com
 *.domain4coin.com
 *.domgame.com
 *.domgamecasino.top
@@ -30400,6 +30390,7 @@
 *.fb88.top
 *.fb887.com
 *.fb88aff.com
+*.fb88affcn.com
 *.fb88affok.com
 *.fb88affth.com
 *.fb88affvn.com
@@ -32850,6 +32841,7 @@
 *.gem.win
 *.gem1.win
 *.gem3.win
+*.gem88.com
 *.gem88.win
 *.gemarlapsbo.com
 *.gembala-poker.org
@@ -37307,7 +37299,6 @@
 *.jackpotscasino.org
 *.jackpotsinaflash.com
 *.jackpotslotswineasy.com
-*.jackpotsxcasinogamez.com
 *.jackpotvillage.com
 *.jackpotwheelcasino.top
 *.jackpotwinner.net
@@ -39111,6 +39102,7 @@
 *.k86312.vip
 *.k869.vip
 *.k88.pro
+*.k88.win
 *.k888988.com
 *.k89.in
 *.k892.vip
@@ -42282,7 +42274,6 @@
 *.livebook88.com
 *.livecair.com
 *.livecamel.xyz
-*.livecardcasinogames.com
 *.livecasino.com
 *.livecasino.ie
 *.livecasino.io
@@ -42291,14 +42282,12 @@
 *.livecasino24h.com
 *.livecasinoau.com
 *.livecasinobonus.com
-*.livecasinocardgames.com
 *.livecasinocheapgamez.com
 *.livecasinocommunity.shop
 *.livecasinodanmark.dk
 *.livecasinodeai.xyz
 *.livecasinodirect.com
 *.livecasinofinder.com
-*.livecasinogamez.com
 *.livecasinohotel.com
 *.livecasinohouse-vietnam.com
 *.livecasinohouseasia.top
@@ -42344,7 +42333,6 @@
 *.liveggbet.com
 *.livegurutoto.blog
 *.livehelp100service.com
-*.livejackpotscheapcasino.com
 *.livejili.international
 *.livekasscomp.com
 *.livelivecasino.com
@@ -43902,6 +43890,7 @@
 *.man1.club
 *.man88.casino
 *.man88.net
+*.man88.top
 *.manabane.com
 *.manadoanubis.com
 *.manadocreed.com
@@ -45465,7 +45454,6 @@
 *.mon33.net
 *.monacobet.sk
 *.monacocasino.top
-*.monacocasinosvip.com
 *.monarchprogram.org
 *.monarqueclub.com
 *.monavipcasino.com
@@ -49930,9 +49918,7 @@
 *.patokbet.com
 *.patokcobra.com
 *.patrianna.com
-*.patriot-good.online
 *.patriot-happy.site
-*.patriot88-untung.online
 *.patroasbet.com
 *.pattaya-lottery.com
 *.pattigeorges.com
@@ -51158,7 +51144,6 @@
 *.pinupsbets.com
 *.pinupslee.casino
 *.pinupslo.casino
-*.pinupslots.ru
 *.pinupss.casino
 *.pinupsss.casino
 *.pinupttt.casino
@@ -55281,7 +55266,6 @@
 *.roulettecasinou.com
 *.roulettelivecasino.se
 *.roulettesites.org
-*.roulettexcasinogamez.com
 *.roundercasino.com
 *.roverhanover.com
 *.rovexaslots.online
@@ -57168,7 +57152,6 @@
 *.situsmerdekatogel.com
 *.situsmplay777.com
 *.situsmpojagoan88.xyz
-*.situsplay.college
 *.situspoker.life
 *.situspoker88.com
 *.situspokeranda.com
@@ -59446,7 +59429,6 @@
 *.srcasino.es
 *.sridevibets.fun
 *.sridevibetsadmin.fun
-*.srikandi888.lol
 *.srikandi88jp.com
 *.sritotohawk.com
 *.srjogo.cc
@@ -59796,6 +59778,7 @@
 *.static6186.com
 *.staticbom88.win
 *.staticcache.org
+*.staticda88.com
 *.staticdu88.win
 *.staticga88.pro
 *.statickbet.win
@@ -61487,7 +61470,6 @@
 *.tofcasino.com
 *.togagato.com
 *.togaplaymrms.com
-*.togel10.net
 *.togel138.guru
 *.togel138.news
 *.togel178.com
@@ -61702,6 +61684,7 @@
 *.topbestcasinoontario.com
 *.topbet.eu
 *.topbet.rs
+*.topbet.top
 *.topbet24.it
 *.topbet90casino.org
 *.topbetcasino.org
@@ -63127,7 +63110,6 @@
 *.uu88.now
 *.uu888-slots.com
 *.uu88c.casino
-*.uub88.online
 *.uudd-slots.com
 *.uuddslots.com
 *.uudetnetticasino.com
@@ -63968,6 +63950,7 @@
 *.vibrantvideos.com
 *.vic.win
 *.vic2.club
+*.vic88.com
 *.vicasino.org
 *.vicbet.com
 *.vice-casino.com
@@ -64439,7 +64422,6 @@
 *.vodka063win.casino
 *.vodka068.casino
 *.vodka078.casino
-*.vodka082.casino
 *.vodka090.casino
 *.vodka09a.casino
 *.vodka09f.casino
@@ -64805,6 +64787,7 @@
 *.vtyk888.com
 *.vtyv668.com
 *.vu88.com
+*.vu88.net
 *.vua69.com
 *.vua88.app
 *.vua88.biz
@@ -67249,6 +67232,7 @@
 *.x-casinoslots.com
 *.x-ggbet.com
 *.x-poker.net
+*.x0206.com
 *.x0800.com
 *.x0y1z2.fun
 *.x1000vivo4d.top
@@ -67283,6 +67267,7 @@
 *.x9.game
 *.x94yh8.top
 *.x98888.com
+*.xaafe.com
 *.xan9.com
 *.xavirocasino.online
 *.xbet.ag
@@ -67348,8 +67333,12 @@
 *.xellos.xyz
 *.xemdagacampuchia.com
 *.xemwc2022.com
+*.xen11.com
 *.xfile101.com
 *.xg13bepf8.com
+*.xg7555.com
+*.xg8555.com
+*.xg9555.com
 *.xgamble.io
 *.xgames77.net
 *.xgghsy6azy.top
@@ -67370,6 +67359,7 @@
 *.xin93.com
 *.xin95.com
 *.xin96.com
+*.xinaobet.com
 *.xingheguang.com
 *.xiongmao.buzz
 *.xipcasino.biz
@@ -67407,6 +67397,7 @@
 *.xn--casinosonlineespaa-30b.org
 *.xn--cr77-lqa.com
 *.xn--jgtslot-5wab.com
+*.xn--kantortot88-zfb.org
 *.xn--m3cd7amyt0n2a.com
 *.xn--ntcasinot-v2a.net
 *.xn--ntcasinoutanlicens-ltb.com
@@ -67416,6 +67407,7 @@
 *.xn--utlndska-casino-2kb.com
 *.xn--utlndskacasino-7hb.biz
 *.xn--utlndskacasinomedbankid-x7b.se
+*.xn--v3cdi1a6bq8e.com
 *.xn2uluqjh2.com
 *.xn88.casino
 *.xnova777.com
@@ -67492,6 +67484,7 @@
 *.xuvang777.com
 *.xuxa777.casino
 *.xv555.com
+*.xv694.com
 *.xvip21.win
 *.xvip26.win
 *.xwin.app
@@ -67532,6 +67525,7 @@
 *.xxjili.org
 *.xxjili.vip
 *.xxppg.win
+*.xxssjj.com
 *.xxvipslots.com
 *.xxxbetcasino.com
 *.xxxbetslots.com
@@ -67570,6 +67564,7 @@
 *.yabbycasino.live
 *.yabbycasino.top
 *.yabbycasinoau.com
+*.yabo2021.vip
 *.yabos88vip1a.com
 *.yabos88vip1c.com
 *.yabtcl.com
@@ -67604,6 +67599,7 @@
 *.yamchuo.com
 *.yamkuek.com
 *.yan168.vip
+*.yangpastiaja.click
 *.yanncasino.com
 *.yao88tiyu.com
 *.yapoker.com
@@ -67626,12 +67622,14 @@
 *.yd88b.com
 *.yd88u.com
 *.ydbet.com
+*.yddslot.lol
 *.ydjud.cc
 *.ye7.asia
 *.ye88.com
 *.yebet.com
 *.yebocasino.top
 *.yeet.com
+*.yelltum.fun
 *.yeng7.com
 *.yeqbx.top
 *.yes.bet
@@ -67646,12 +67644,14 @@
 *.yescasino.xyz
 *.yesgame.shop
 *.yesmataslot77.com
+*.yesmj.com
 *.yesplay.bet
 *.yeswecare.live
 *.yeszon.com
 *.yetcasino.com
 *.yeti878go.com
 *.yeticasino.com
+*.yeticasino.vip
 *.yetrsg.at
 *.yeu88.games
 *.yeumngam.com
@@ -67666,6 +67666,7 @@
 *.yiakang.com
 *.yieldcasino.xyz
 *.yin0060.com
+*.yipdeceiver.com
 *.yjo4c4uek7.com
 *.yjxyjt.com
 *.yl00688.com
@@ -67679,6 +67680,7 @@
 *.ylcasinogame.com
 *.yld2xp.com
 *.ylih6ftygq7.com
+*.ylyl225.com
 *.ylyofb45n.com
 *.ymlpmail2.com
 *.yn777casino.com
@@ -67699,6 +67701,10 @@
 *.yojucasino.top
 *.yojucasinos.com
 *.yojucasinos.net
+*.yok004.com
+*.yok32264.com
+*.yok33710.com
+*.yok36981.com
 *.yola4dgahar.online
 *.yolocasino.com
 *.yolodice.com
@@ -67715,6 +67721,7 @@
 *.yonibet1.com
 *.yonibet1.eu
 *.yonibet2.com
+*.yonibet2.eu
 *.yonibet2.io
 *.yonibet3.com
 *.yonibet3.io
@@ -67751,15 +67758,20 @@
 *.youwager.lv
 *.youwin.com
 *.youwin777.win
+*.yowes31681.com
+*.yowes33710.com
 *.yowes35201.com
+*.yowes36981.com
 *.yowes83257.com
 *.yowes85211.com
 *.yowestogel.com
 *.yowestogel0251.com
+*.yowestogel124.com
 *.yoynbet.com
 *.yoyo-casino.top
 *.yoyocasino.club
 *.yoyocasino.com
+*.yoyocasino.top
 *.yoyocasino4.com
 *.yoyospin.com
 *.ypby5.com
@@ -67778,6 +67790,7 @@
 *.ytbet888.com
 *.ytbetbets.com
 *.yttamhbzz.com
+*.ytysmy.com
 *.yu777i.com
 *.yu777slots.com
 *.yuemphap.com
@@ -67796,7 +67809,9 @@
 *.yumetotolink.com
 *.yumheartpulse.sbs
 *.yummyspins.com
+*.yun155.com
 *.yunitop.com
+*.yupidraw.shop
 *.yupraslots.site
 *.yutogel.org
 *.yuugado.com
@@ -67840,6 +67855,7 @@
 *.yyybetslots.com
 *.yyyboi.bet
 *.yyycasino.club
+*.yyycasino.online
 *.yyycasino1.com
 *.yyycasinouae.com
 *.yyyjl.com
@@ -67851,6 +67867,7 @@
 *.z100.io
 *.z11.games
 *.z169.bet
+*.z4d.info
 *.z6.com
 *.z609.bet
 *.z68.fun
@@ -67868,6 +67885,7 @@
 *.zafirbets.fun
 *.zafirbets.top
 *.zalagam.net
+*.zalfa.in
 *.zalomomo.com
 *.zaloomsautorepair.com
 *.zaloqq88.club
@@ -67880,6 +67898,7 @@
 *.zambo-bets.shop
 *.zamsino.com
 *.zaneshawneecaverns.net
+*.zanttours.com
 *.zapisiprivatov.net
 *.zapix.bet
 *.zaption.com
@@ -67889,6 +67908,8 @@
 *.zaxbet.com
 *.zaza.com
 *.zb-menbetsports-chn.com
+*.zb387.com
+*.zbb777.com
 *.zbdbed.com
 *.zbet.com
 *.zbet.fun
@@ -67896,8 +67917,10 @@
 *.zbet.tv
 *.zbet1.co
 *.zbo.app
+*.zbo5c.com
 *.zbpartner.com
 *.zcodesystem.com
+*.zdftu.net
 *.zdhrb60.com
 *.zdhrb62.com
 *.zdhrb64.com
@@ -68127,6 +68150,8 @@
 *.zetspins.com
 *.zeturf.com
 *.zeturf.fr
+*.zeus.clinic
+*.zeus1000.online
 *.zeus33524.com
 *.zeus4d.uno
 *.zeusbingo.com
@@ -68147,6 +68172,7 @@
 *.zhhbet.com
 *.zhuniangao.com
 *.zhutu888.com
+*.zianslot888.vip
 *.ziatogel124.com
 *.ziatogel130.com
 *.zibbet.com
@@ -68154,8 +68180,11 @@
 *.ziestcasinos.com
 *.zigavn.com
 *.zigazig-ha.com
+*.zigmabet.net
 *.zigzag777.com
+*.zigzagrtp.site
 *.zigzagslotwin.click
+*.zilongslot.net
 *.zimplercasino.ca
 *.zimplercasinos.pro
 *.zinacasinoenligne.com
@@ -68164,6 +68193,7 @@
 *.zipangcasino.com
 *.zipcasino.club
 *.zipcasino-se.com
+*.zithromax0i0.com
 *.zitobox.com
 *.zivorocasino.site
 *.zjumapxjws.com
@@ -68208,6 +68238,7 @@
 *.zondercrukscasino.com
 *.zooappasla.com
 *.zoodleslicer.com
+*.zooma-casino.ru
 *.zooma-casino109.buzz
 *.zooma-casino1990.top
 *.zooma-casino209.buzz
@@ -68248,6 +68279,8 @@
 *.zoroentertain.com
 *.zotabet.com
 *.zotabet-casino.casino
+*.zovirax.live
+*.zovirax.monster
 *.zowin.tv
 *.zpng-online-casino.com
 *.zqt2578.com
@@ -68271,6 +68304,7 @@
 *.zweeler.com
 *.zx8003.com
 *.zxkldnhc66632148p.com
+*.zy01.fun
 *.zyngapoker.com
 *.zyntraslots.online
 *.zz1998.com

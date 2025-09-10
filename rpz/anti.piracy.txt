@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757492880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757520420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Sep 2025 08:28 UTC
-; Version: 2025.0910.0828.12
+; Last modified: 10 Sep 2025 16:07 UTC
+; Version: 2025.0910.1607.15
 ; Syntax: RPZ
-; Number of entries: 22180
+; Number of entries: 22190
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -9285,6 +9285,8 @@ xmovies8.fun CNAME .
 *.xmovies8.fun CNAME .
 yalla-shoot.fun CNAME .
 *.yalla-shoot.fun CNAME .
+yesmovies.fun CNAME .
+*.yesmovies.fun CNAME .
 streamingcommunity.fund CNAME .
 *.streamingcommunity.fund CNAME .
 altadefinizione.futbol CNAME .
@@ -14949,6 +14951,8 @@ wassermann.online CNAME .
 *.wassermann.online CNAME .
 xcine.online CNAME .
 *.xcine.online CNAME .
+xx1.online CNAME .
+*.xx1.online CNAME .
 z8341.online CNAME .
 *.z8341.online CNAME .
 zeflix.online CNAME .
@@ -17431,6 +17435,8 @@ tpb.re CNAME .
 *.tpb.re CNAME .
 ygg.re CNAME .
 *.ygg.re CNAME .
+yts.re CNAME .
+*.yts.re CNAME .
 vegamovies.realty CNAME .
 *.vegamovies.realty CNAME .
 btkitty.red CNAME .
@@ -19873,6 +19879,10 @@ ymovies.to CNAME .
 *.ymovies.to CNAME .
 yts.to CNAME .
 *.yts.to CNAME .
+zer0day.to CNAME .
+*.zer0day.to CNAME .
+zonetelechargement.to CNAME .
+*.zonetelechargement.to CNAME .
 zorox.to CNAME .
 *.zorox.to CNAME .
 cb01.today CNAME .

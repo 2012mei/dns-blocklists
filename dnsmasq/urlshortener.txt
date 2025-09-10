@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Sep 2025 06:48 UTC
-# Version: 2025.0910.0648.05
+# Last modified: 10 Sep 2025 14:28 UTC
+# Version: 2025.0910.1428.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6407
+# Number of entries: 6410
 #
 local=/0.gp/
 local=/00m.in/
@@ -6209,6 +6209,7 @@ local=/xurl.jp/
 local=/xurl.pk/
 local=/xurl302.top/
 local=/xurls.net/
+local=/xvirt.it/
 local=/xxxdwz.cc/
 local=/xxxdwz.co/
 local=/xxxdwz.com/
@@ -6313,6 +6314,7 @@ local=/zaya.io/
 local=/s.zazuko.com/
 local=/zbitly.com/
 local=/zc.vg/
+local=/zcays.com/
 local=/zctz.me/
 local=/zcu.io/
 local=/zd.net/
@@ -6357,6 +6359,7 @@ local=/zizi.ly/
 local=/zkr.cz/
 local=/zkr.pw/
 local=/zkrat.me/
+local=/zkrt.cz/
 local=/zlink.fun/
 local=/zln.do/
 local=/zlnk.com/

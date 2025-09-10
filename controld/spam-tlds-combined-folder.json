@@ -2135,6 +2135,13 @@
       }
     },
     {
+      "PK": "fx.wtf",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.fyi",
       "action": {
         "do": 0,
@@ -3942,6 +3949,13 @@
     },
     {
       "PK": "nixos.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "nocut.shop",
       "action": {
         "do": 1,
         "status": 1
@@ -5869,6 +5883,13 @@
       "PK": "*.tk",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tmaeno.tokyo",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

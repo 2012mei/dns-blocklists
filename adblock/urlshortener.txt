@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 10 Sep 2025 06:48 UTC
-! Version: 2025.0910.0648.05
+! Last modified: 10 Sep 2025 14:28 UTC
+! Version: 2025.0910.1428.14
 ! Syntax: AdBlock
-! Number of entries: 6407
+! Number of entries: 6410
 !
 ||0.gp^
 ||00m.in^
@@ -6210,6 +6210,7 @@
 ||xurl.pk^
 ||xurl302.top^
 ||xurls.net^
+||xvirt.it^
 ||xxxdwz.cc^
 ||xxxdwz.co^
 ||xxxdwz.com^
@@ -6314,6 +6315,7 @@
 ||s.zazuko.com^
 ||zbitly.com^
 ||zc.vg^
+||zcays.com^
 ||zctz.me^
 ||zcu.io^
 ||zd.net^
@@ -6358,6 +6360,7 @@
 ||zkr.cz^
 ||zkr.pw^
 ||zkrat.me^
+||zkrt.cz^
 ||zlink.fun^
 ||zln.do^
 ||zlnk.com^

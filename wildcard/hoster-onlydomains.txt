@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Sep 2025 06:47 UTC
-# Version: 2025.0910.0647.36
+# Last modified: 10 Sep 2025 14:27 UTC
+# Version: 2025.0910.1427.46
 # Syntax: Domains (without subdomains)
-# Number of entries: 2133
+# Number of entries: 2134
 #
 000a.de
 000free.us
@@ -2083,6 +2083,7 @@ xanga.com
 xaper.com
 xbl0g.com
 xblog.in
+xbloggers.com
 xinei.shop
 xl.lc
 xml.in

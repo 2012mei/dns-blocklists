@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Sep 2025 06:45 UTC
-# Version: 2025.0910.0645.59
+# Last modified: 10 Sep 2025 14:26 UTC
+# Version: 2025.0910.1426.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14012
+# Number of entries: 14013
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1146,7 +1146,6 @@ local=/bbqaccessoriessale.com/
 local=/bc-rheine.de/
 local=/bcgroups-lond.com/
 local=/bcm-shop.de/
-local=/bcqecoin.fr/
 local=/bcseagles.net/
 local=/bdaten.de/
 local=/beaccustomed.com/
@@ -5394,7 +5393,6 @@ local=/gugeunk.de/
 local=/guidehue.com/
 local=/guidimo.fr/
 local=/gul-store.com/
-local=/gundigpellet.at/
 local=/gundipellet.at/
 local=/gundipellet.com/
 local=/gunkn.com/
@@ -10209,7 +10207,6 @@ local=/rabonline.net/
 local=/rabromania.net/
 local=/raceoption.com/
 local=/rachelentwistle-store.com/
-local=/rachtentrends.com/
 local=/racinghelmetde.com/
 local=/radbegeisterung.de/
 local=/radbekleidung4u.com/
@@ -13862,6 +13859,7 @@ local=/yeezy.at/
 local=/yeezy-450.com/
 local=/yeezyadidas.de/
 local=/yeezys.co/
+local=/yesmole.com/
 local=/yjcsundw.com/
 local=/ymking.com/
 local=/balkonzauber.ymwfdm.work/
@@ -13920,6 +13918,7 @@ local=/zalieroo.de/
 local=/zallona.de/
 local=/zalo-web.me/
 local=/zaloweb.pro/
+local=/zalvori.com/
 local=/zamratech-de.com/
 local=/zamratech-sf.com/
 local=/zanzea.com/
@@ -13949,6 +13948,7 @@ local=/zeenity.com/
 local=/zeglo-finanz.com/
 local=/zeitgeschenen.de/
 local=/zeitlosliebe.de/
+local=/zelono.de/
 local=/zelterabatt.com/
 local=/zemacys.com/
 local=/zendoo.de/
@@ -13998,6 +13998,7 @@ local=/zoneboxing.com/
 local=/zoomil.de/
 local=/zoomoption.com/
 local=/zooroyalde.com/
+local=/zotatees.com/
 local=/zteinberg-modehaus.de/
 local=/zubehorfahrrad.com/
 local=/zubehorgeschaft.com/

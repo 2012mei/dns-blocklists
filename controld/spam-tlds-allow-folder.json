@@ -1436,6 +1436,13 @@
       }
     },
     {
+      "PK": "fx.wtf",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "gamedev.place",
       "action": {
         "do": 1,
@@ -2774,6 +2781,13 @@
     },
     {
       "PK": "nixos.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "nocut.shop",
       "action": {
         "do": 1,
         "status": 1
@@ -4146,6 +4160,13 @@
     },
     {
       "PK": "timberjacks.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tmaeno.tokyo",
       "action": {
         "do": 1,
         "status": 1

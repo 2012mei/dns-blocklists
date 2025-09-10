@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Sep 2025 08:28 UTC
-# Version: 2025.0910.0828.12
+# Last modified: 10 Sep 2025 16:07 UTC
+# Version: 2025.0910.1607.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11090
+# Number of entries: 11095
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -10785,6 +10785,7 @@ local=/xtvi.com/
 local=/xubster.com/
 local=/xuyadong.sbs/
 local=/xwt-classics.net/
+local=/xx1.online/
 local=/open.xxtor.com/
 local=/xxx-torrent.net/
 local=/xxx-tracker.com/
@@ -10829,6 +10830,7 @@ local=/yesmovies.com/
 local=/yesmovies.date/
 local=/yesmovies.do/
 local=/yesmovies.email/
+local=/yesmovies.fun/
 local=/yesmovies.gg/
 local=/yesmovies.id/
 local=/yesmovies.io/
@@ -10952,6 +10954,7 @@ local=/yts.ms/
 local=/yts.mx/
 local=/yts.pl/
 local=/yts.pm/
+local=/yts.re/
 local=/yts.rs/
 local=/yts.st/
 local=/yts.to/
@@ -11020,6 +11023,7 @@ local=/zelka.org/
 local=/tracker.zemoj.com/
 local=/zenithpaltrow.com/
 local=/zeoez.com/
+local=/zer0day.to/
 local=/t.zerg.pw/
 local=/zerion.cc/
 local=/tracker.zerobytes.xyz/
@@ -11081,6 +11085,7 @@ local=/zone-warez.com/
 local=/zonesega.com/
 local=/zonestreaming.info/
 local=/zonestreaming.rip/
+local=/zonetelechargement.to/
 local=/zoomonlinebd.net/
 local=/zooqle.com/
 local=/zoozle.org/
