@@ -26,6 +26,7 @@ epg.best
 xhamster.best
 dat.bike
 lime.bike
+onlinesizing.bike
 rapido.bike
 anonymurl.biz
 asana.biz
@@ -507,6 +508,7 @@ takeb1nzyto.space
 telegram.space
 truepeople.space
 uexcorp.space
+dyn.sport
 adidashardware.store
 beyondagency.store
 bigtimerush.store

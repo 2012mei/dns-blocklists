@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 09 Sep 2025 06:48 UTC
-! Version: 2025.0909.0648.15
+! Last modified: 10 Sep 2025 06:48 UTC
+! Version: 2025.0910.0648.05
 ! Syntax: AdBlock
-! Number of entries: 6386
+! Number of entries: 6407
 !
 ||0.gp^
 ||00m.in^
@@ -3662,6 +3662,7 @@
 ||nswroads.work^
 ||ntalij.com^
 ||ntap.com^
+||ntbk.io^
 ||ntbx.ir^
 ||ntck.co^
 ||ntlink.co^
@@ -3722,6 +3723,7 @@
 ||oink.us^
 ||oinla.com^
 ||ok.link^
+||ok.tc^
 ||ok2.com^
 ||okdc.me^
 ||oke.io^
@@ -3771,6 +3773,7 @@
 ||oplink.club^
 ||opn.my^
 ||n.opn.tl^
+||opportunityonlinebusiness.com^
 ||opr.as^
 ||opr.news^
 ||ops.consulting^
@@ -3982,6 +3985,7 @@
 ||posted.at^
 ||postmylink.com^
 ||potr12.org^
+||go.poweren.ir^
 ||pp.cr^
 ||ppdail.com^
 ||pplx.ai^
@@ -3998,6 +4002,7 @@
 ||pre.la^
 ||prel.ink^
 ||premex.link^
+||premierbet.live^
 ||preml.ge^
 ||prendre-rendezvous.com^
 ||prephe.ro^
@@ -4087,6 +4092,7 @@
 ||qnap.to^
 ||qo.dk^
 ||qoo.by^
+||qowrk.com^
 ||qptr.ru^
 ||qqc.co^
 ||qr.ae^
@@ -4309,6 +4315,7 @@
 ||rool.ink^
 ||roq.to^
 ||rotf.lol^
+||rouletteonline.live^
 ||rounash.com^
 ||rozhl.as^
 ||rpf.io^
@@ -4330,6 +4337,7 @@
 ||ruplink.com^
 ||rusd.in^
 ||rushgiving.com^
+||rusuhkali.xyz^
 ||rutgon.top^
 ||rutgonurl.com^
 ||ruvi.me^
@@ -4667,6 +4675,7 @@
 ||shortshare.app^
 ||shortstat.com^
 ||shortswitch.com^
+||shortturl.co^
 ||shortu.be^
 ||shortuel.asia^
 ||shorturl.ac^
@@ -4727,6 +4736,7 @@
 ||shrt.lat^
 ||shrt.st^
 ||shrt.vip^
+||shrt-l.ink^
 ||shrtco.de^
 ||shrten.com^
 ||shrten.us^
@@ -4817,6 +4827,7 @@
 ||sku.su^
 ||sky.si^
 ||skyclad.me^
+||skye.to^
 ||skysss.uk^
 ||skyurl.cc^
 ||sl4.me^
@@ -4882,6 +4893,7 @@
 ||snip.ly^
 ||snip.ng^
 ||snipi.io^
+||snipit.in^
 ||sniply.io^
 ||sniplytics.com^
 ||snipmojo.com^
@@ -5106,6 +5118,7 @@
 ||tbsi.app^
 ||tcc.io^
 ||tcch.ch^
+||tckl.party^
 ||tcp.pw^
 ||tcrn.ch^
 ||on.tcs.com^
@@ -5121,6 +5134,7 @@
 ||teeplantage.de^
 ||teil.cc^
 ||tek.io^
+||teknut.com^
 ||telegramviral.com^
 ||telegramviral.online^
 ||teleko.me^
@@ -5170,6 +5184,7 @@
 ||thesocial.vip^
 ||thetim.es^
 ||thetinyurls.com^
+||theurl.to^
 ||thght.works^
 ||thinfi.com^
 ||thinl.ink^
@@ -5464,7 +5479,9 @@
 ||twitspin.win^
 ||twitterpan.com^
 ||twitthis.com^
+||twiturl.de^
 ||twixar.com^
+||twlink.ir^
 ||twm5g.co^
 ||two.re^
 ||twou.co^
@@ -5563,6 +5580,7 @@
 ||upmchp.us^
 ||upriserz.link^
 ||upt.sh^
+||upyun.online^
 ||upzat.com^
 ||ur.link^
 ||ur-l.ru^
@@ -5902,6 +5920,7 @@
 ||vu.fr^
 ||vur.me^
 ||vurl.com^
+||vurlz.com^
 ||vv.vg^
 ||vvd.bz^
 ||vvd.im^
@@ -5927,6 +5946,7 @@
 ||waad.co^
 ||wahoowa.net^
 ||wajinlong.pro^
+||wakgengs.pro^
 ||wal.ee^
 ||walk.sc^
 ||walkjc.org^
@@ -6099,6 +6119,7 @@
 ||wun.io^
 ||wuniw.com^
 ||wurlie.net^
+||wurlz.com^
 ||ww7.fr^
 ||wwat.ch^
 ||wwf.to^

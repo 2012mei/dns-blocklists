@@ -11257,6 +11257,13 @@
       }
     },
     {
+      "PK": "realscienceblogs.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "reblog.hu",
       "action": {
         "do": 0,
@@ -12531,6 +12538,13 @@
       }
     },
     {
+      "PK": "the-finance-world.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "theblog.me",
       "action": {
         "do": 0,
@@ -13435,6 +13449,27 @@
     },
     {
       "PK": "vn.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "voellig-daneben.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vollidiot.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vollsten.de",
       "action": {
         "do": 0,
         "status": 1
