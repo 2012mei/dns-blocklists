@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 10 Sep 2025 14:28 UTC
-! Version: 2025.0910.1428.14
+! Last modified: 10 Sep 2025 17:40 UTC
+! Version: 2025.0910.1740.08
 ! Syntax: AdBlock
-! Number of entries: 6410
+! Number of entries: 6423
 !
 ||0.gp^
 ||00m.in^
@@ -2029,6 +2029,8 @@
 ||gjk.id^
 ||gkurl.us^
 ||gl.am^
+||glatt.io^
+||glattly.com^
 ||glb.pw^
 ||glblctzn.co^
 ||glblctzn.me^
@@ -3093,6 +3095,7 @@
 ||lnkiy.com^
 ||lnkiy.in^
 ||lnkm.ee^
+||lnkr1.com^
 ||lnks.ai^
 ||lnks.es^
 ||lnks.fr^
@@ -3845,6 +3848,7 @@
 ||pag.la^
 ||page.link^
 ||paksa.click^
+||panitech.us^
 ||paperspeedy.com^
 ||parg.co^
 ||lien.paribal.fr^
@@ -3891,6 +3895,7 @@
 ||peekstory.com^
 ||peen.ca^
 ||peerwith.me^
+||pegasurl.com^
 ||pekcamke.link^
 ||pens.pe^
 ||peoplem.ag^
@@ -4123,6 +4128,7 @@
 ||qrkiss.com^
 ||qrlinker.net^
 ||qrlit.com^
+||qrly.io^
 ||qrme.be^
 ||qrnesign.com^
 ||qrouton.jp^
@@ -4242,6 +4248,7 @@
 ||reducelnk.com^
 ||redvt.cc^
 ||reel.io^
+||ref.gs^
 ||ref.so^
 ||ref11.top^
 ||refer.is^
@@ -4844,6 +4851,7 @@
 ||slotamina.com^
 ||slpre.com^
 ||slptr.com^
+||sly.be^
 ||slynk.in^
 ||sm-s.in^
 ||sm4ll.in^
@@ -5333,6 +5341,7 @@
 ||tny.so^
 ||tny.ws^
 ||tny.xyz^
+||tnyr.me^
 ||tnyurl.one^
 ||tnyurl.pro^
 ||to.lk^
@@ -5362,6 +5371,7 @@
 ||topt.al^
 ||topurl.cc^
 ||topurl.link^
+||tos-test.com^
 ||toskys.cn^
 ||toss.is^
 ||toto.pe^
@@ -5444,6 +5454,7 @@
 ||tt.vg^
 ||ttad.me^
 ||ttbad.com^
+||ttdt.info^
 ||tto.jp^
 ||ttoo.top^
 ||ttrewards.com^
@@ -5497,6 +5508,7 @@
 ||tyny.me^
 ||typit.in^
 ||tyrano-shortener.in^
+||tzu.to^
 ||u.nu^
 ||u.to^
 ||u-link.asia^
@@ -5864,6 +5876,7 @@
 ||vipb.io^
 ||vipcair.click^
 ||vipjus.click^
+||viplink.us^
 ||viprupiah138.net^
 ||vipshortener.com^
 ||vipslot4d.site^

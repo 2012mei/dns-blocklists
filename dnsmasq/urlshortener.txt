@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Sep 2025 14:28 UTC
-# Version: 2025.0910.1428.14
+# Last modified: 10 Sep 2025 17:40 UTC
+# Version: 2025.0910.1740.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6410
+# Number of entries: 6423
 #
 local=/0.gp/
 local=/00m.in/
@@ -2028,6 +2028,8 @@ local=/gj.al/
 local=/gjk.id/
 local=/gkurl.us/
 local=/gl.am/
+local=/glatt.io/
+local=/glattly.com/
 local=/glb.pw/
 local=/glblctzn.co/
 local=/glblctzn.me/
@@ -3092,6 +3094,7 @@ local=/lnkit.de/
 local=/lnkiy.com/
 local=/lnkiy.in/
 local=/lnkm.ee/
+local=/lnkr1.com/
 local=/lnks.ai/
 local=/lnks.es/
 local=/lnks.fr/
@@ -3844,6 +3847,7 @@ local=/packt.link/
 local=/pag.la/
 local=/page.link/
 local=/paksa.click/
+local=/panitech.us/
 local=/paperspeedy.com/
 local=/parg.co/
 local=/lien.paribal.fr/
@@ -3890,6 +3894,7 @@ local=/peek.link/
 local=/peekstory.com/
 local=/peen.ca/
 local=/peerwith.me/
+local=/pegasurl.com/
 local=/pekcamke.link/
 local=/pens.pe/
 local=/peoplem.ag/
@@ -4122,6 +4127,7 @@ local=/qrisni.me/
 local=/qrkiss.com/
 local=/qrlinker.net/
 local=/qrlit.com/
+local=/qrly.io/
 local=/qrme.be/
 local=/qrnesign.com/
 local=/qrouton.jp/
@@ -4241,6 +4247,7 @@ local=/redu.it/
 local=/reducelnk.com/
 local=/redvt.cc/
 local=/reel.io/
+local=/ref.gs/
 local=/ref.so/
 local=/ref11.top/
 local=/refer.is/
@@ -4843,6 +4850,7 @@ local=/slnk.se/
 local=/slotamina.com/
 local=/slpre.com/
 local=/slptr.com/
+local=/sly.be/
 local=/slynk.in/
 local=/sm-s.in/
 local=/sm4ll.in/
@@ -5332,6 +5340,7 @@ local=/tny.sh/
 local=/tny.so/
 local=/tny.ws/
 local=/tny.xyz/
+local=/tnyr.me/
 local=/tnyurl.one/
 local=/tnyurl.pro/
 local=/to.lk/
@@ -5361,6 +5370,7 @@ local=/topsubcvelens.life/
 local=/topt.al/
 local=/topurl.cc/
 local=/topurl.link/
+local=/tos-test.com/
 local=/toskys.cn/
 local=/toss.is/
 local=/toto.pe/
@@ -5443,6 +5453,7 @@ local=/tsz4.me/
 local=/tt.vg/
 local=/ttad.me/
 local=/ttbad.com/
+local=/ttdt.info/
 local=/tto.jp/
 local=/ttoo.top/
 local=/ttrewards.com/
@@ -5496,6 +5507,7 @@ local=/ty.gy/
 local=/tyny.me/
 local=/typit.in/
 local=/tyrano-shortener.in/
+local=/tzu.to/
 local=/u.nu/
 local=/u.to/
 local=/u-link.asia/
@@ -5863,6 +5875,7 @@ local=/vip-gacha99.info/
 local=/vipb.io/
 local=/vipcair.click/
 local=/vipjus.click/
+local=/viplink.us/
 local=/viprupiah138.net/
 local=/vipshortener.com/
 local=/vipslot4d.site/

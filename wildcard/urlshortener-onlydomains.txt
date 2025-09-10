@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Sep 2025 14:28 UTC
-# Version: 2025.0910.1428.14
+# Last modified: 10 Sep 2025 17:40 UTC
+# Version: 2025.0910.1740.08
 # Syntax: Domains (without subdomains)
-# Number of entries: 6410
+# Number of entries: 6423
 #
 0.gp
 00m.in
@@ -2028,6 +2028,8 @@ gj.al
 gjk.id
 gkurl.us
 gl.am
+glatt.io
+glattly.com
 glb.pw
 glblctzn.co
 glblctzn.me
@@ -3092,6 +3094,7 @@ lnkit.de
 lnkiy.com
 lnkiy.in
 lnkm.ee
+lnkr1.com
 lnks.ai
 lnks.es
 lnks.fr
@@ -3844,6 +3847,7 @@ packt.link
 pag.la
 page.link
 paksa.click
+panitech.us
 paperspeedy.com
 parg.co
 lien.paribal.fr
@@ -3890,6 +3894,7 @@ peek.link
 peekstory.com
 peen.ca
 peerwith.me
+pegasurl.com
 pekcamke.link
 pens.pe
 peoplem.ag
@@ -4122,6 +4127,7 @@ qrisni.me
 qrkiss.com
 qrlinker.net
 qrlit.com
+qrly.io
 qrme.be
 qrnesign.com
 qrouton.jp
@@ -4241,6 +4247,7 @@ redu.it
 reducelnk.com
 redvt.cc
 reel.io
+ref.gs
 ref.so
 ref11.top
 refer.is
@@ -4843,6 +4850,7 @@ slnk.se
 slotamina.com
 slpre.com
 slptr.com
+sly.be
 slynk.in
 sm-s.in
 sm4ll.in
@@ -5332,6 +5340,7 @@ tny.sh
 tny.so
 tny.ws
 tny.xyz
+tnyr.me
 tnyurl.one
 tnyurl.pro
 to.lk
@@ -5361,6 +5370,7 @@ topsubcvelens.life
 topt.al
 topurl.cc
 topurl.link
+tos-test.com
 toskys.cn
 toss.is
 toto.pe
@@ -5443,6 +5453,7 @@ tsz4.me
 tt.vg
 ttad.me
 ttbad.com
+ttdt.info
 tto.jp
 ttoo.top
 ttrewards.com
@@ -5496,6 +5507,7 @@ ty.gy
 tyny.me
 typit.in
 tyrano-shortener.in
+tzu.to
 u.nu
 u.to
 u-link.asia
@@ -5863,6 +5875,7 @@ vip-gacha99.info
 vipb.io
 vipcair.click
 vipjus.click
+viplink.us
 viprupiah138.net
 vipshortener.com
 vipslot4d.site

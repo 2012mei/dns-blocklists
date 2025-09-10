@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757514480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757526000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Sep 2025 14:28 UTC
-; Version: 2025.0910.1428.14
+; Last modified: 10 Sep 2025 17:40 UTC
+; Version: 2025.0910.1740.08
 ; Syntax: RPZ
-; Number of entries: 12820
+; Number of entries: 12846
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -448,6 +448,8 @@ shortu.be CNAME .
 *.shortu.be CNAME .
 shtu.be CNAME .
 *.shtu.be CNAME .
+sly.be CNAME .
+*.sly.be CNAME .
 surl.be CNAME .
 *.surl.be CNAME .
 tinu.be CNAME .
@@ -2618,6 +2620,8 @@ getthot.com CNAME .
 *.getthot.com CNAME .
 ghntinyurl.com CNAME .
 *.ghntinyurl.com CNAME .
+glattly.com CNAME .
+*.glattly.com CNAME .
 globargains.com CNAME .
 *.globargains.com CNAME .
 go2ln.com CNAME .
@@ -3008,6 +3012,8 @@ llqwtrk.com CNAME .
 *.llqwtrk.com CNAME .
 lnkiy.com CNAME .
 *.lnkiy.com CNAME .
+lnkr1.com CNAME .
+*.lnkr1.com CNAME .
 lnkshk.com CNAME .
 *.lnkshk.com CNAME .
 lnkshort.com CNAME .
@@ -3270,6 +3276,8 @@ pecurgoa.com CNAME .
 *.pecurgoa.com CNAME .
 peekstory.com CNAME .
 *.peekstory.com CNAME .
+pegasurl.com CNAME .
+*.pegasurl.com CNAME .
 persocheck.com CNAME .
 *.persocheck.com CNAME .
 petesmarketinghub.com CNAME .
@@ -3864,6 +3872,8 @@ toplistt.com CNAME .
 *.toplistt.com CNAME .
 topsitus.com CNAME .
 *.topsitus.com CNAME .
+tos-test.com CNAME .
+*.tos-test.com CNAME .
 tpmr.com CNAME .
 *.tpmr.com CNAME .
 traceurl.com CNAME .
@@ -5360,6 +5370,8 @@ mhm.gs CNAME .
 *.mhm.gs CNAME .
 q.gs CNAME .
 *.q.gs CNAME .
+ref.gs CNAME .
+*.ref.gs CNAME .
 smu.gs CNAME .
 *.smu.gs CNAME .
 ssl.gs CNAME .
@@ -6174,6 +6186,8 @@ ssl-check-links.info CNAME .
 *.ssl-check-links.info CNAME .
 tinylink.info CNAME .
 *.tinylink.info CNAME .
+ttdt.info CNAME .
+*.ttdt.info CNAME .
 url-shortener.info CNAME .
 *.url-shortener.info CNAME .
 urlchecker.info CNAME .
@@ -6390,6 +6404,8 @@ gh.io CNAME .
 *.gh.io CNAME .
 git.io CNAME .
 *.git.io CNAME .
+glatt.io CNAME .
+*.glatt.io CNAME .
 glnk.io CNAME .
 *.glnk.io CNAME .
 golinkfy.io CNAME .
@@ -6522,6 +6538,8 @@ qrcs.io CNAME .
 *.qrcs.io CNAME .
 qrfy.io CNAME .
 *.qrfy.io CNAME .
+qrly.io CNAME .
+*.qrly.io CNAME .
 qrsu.io CNAME .
 *.qrsu.io CNAME .
 links.rasa.io CNAME .
@@ -9018,6 +9036,8 @@ tinyy.me CNAME .
 *.tinyy.me CNAME .
 tmz.me CNAME .
 *.tmz.me CNAME .
+tnyr.me CNAME .
+*.tnyr.me CNAME .
 topkale.me CNAME .
 *.topkale.me CNAME .
 trck.me CNAME .
@@ -11724,6 +11744,8 @@ trimmer.to CNAME .
 *.trimmer.to CNAME .
 trydevi.to CNAME .
 *.trydevi.to CNAME .
+tzu.to CNAME .
+*.tzu.to CNAME .
 u.to CNAME .
 *.u.to CNAME .
 u2.to CNAME .
@@ -12230,6 +12252,8 @@ oink.us CNAME .
 *.oink.us CNAME .
 onepl.us CNAME .
 *.onepl.us CNAME .
+panitech.us CNAME .
+*.panitech.us CNAME .
 pgat.us CNAME .
 *.pgat.us CNAME .
 app.philz.us CNAME .
@@ -12322,6 +12346,8 @@ vars.us CNAME .
 *.vars.us CNAME .
 vbly.us CNAME .
 *.vbly.us CNAME .
+viplink.us CNAME .
+*.viplink.us CNAME .
 volvocars.us CNAME .
 *.volvocars.us CNAME .
 vrnda.us CNAME .
