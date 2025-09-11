@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757520420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757578740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Sep 2025 16:07 UTC
-; Version: 2025.0910.1607.15
+; Last modified: 11 Sep 2025 08:19 UTC
+; Version: 2025.0911.0819.26
 ; Syntax: RPZ
-; Number of entries: 22190
+; Number of entries: 22192
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -343,6 +343,8 @@ guardaserie.army CNAME .
 *.guardaserie.army CNAME .
 piratebay.army CNAME .
 *.piratebay.army CNAME .
+skymovieshd.army CNAME .
+*.skymovieshd.army CNAME .
 streamingcommunity.army CNAME .
 *.streamingcommunity.army CNAME .
 tracker.army CNAME .
@@ -14783,6 +14785,8 @@ vegamovies.onl CNAME .
 *.123moviesme.online CNAME .
 1jour1film.online CNAME .
 *.1jour1film.online CNAME .
+aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
+*.aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
 altadefinizione.online CNAME .
 *.altadefinizione.online CNAME .
 altadefinizione-originale.online CNAME .
@@ -15485,8 +15489,6 @@ torrent.eu.org CNAME .
 *.2.tracker.eu.org CNAME .
 3.tracker.eu.org CNAME .
 *.3.tracker.eu.org CNAME .
-4.tracker.eu.org CNAME .
-*.4.tracker.eu.org CNAME .
 everythingmoe.org CNAME .
 *.everythingmoe.org CNAME .
 evopt.org CNAME .
