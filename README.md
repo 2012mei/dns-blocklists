@@ -309,7 +309,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 772774 domains/hosts - 85864 compressed hosts - 644128 compressed domains
+**Entries:** 777250 domains/hosts - 86362 compressed hosts - 648148 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -332,7 +332,7 @@ A medium version of the Threat Intelligence Feeds list. Designed for Adblockers 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 326076 compressed domains
+**Entries:** 317664 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -352,7 +352,7 @@ A size-optimised version of the Threat Intelligence Feeds Medium list. Designed 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 99280 compressed domains
+**Entries:** 91177 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|

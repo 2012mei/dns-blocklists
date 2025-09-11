@@ -314,6 +314,7 @@ nyarchlinux.moe
 uma.moe
 flowyour.money
 unstoppable.money
+usual.money
 vivid.money
 cloudcdn.monster
 fedi.monster

@@ -6132,6 +6132,13 @@
       }
     },
     {
+      "PK": "usual.money",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.vacations",
       "action": {
         "do": 0,

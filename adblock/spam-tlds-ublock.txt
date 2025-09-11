@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 10 Sep 2025 16:15 UTC
-! Version: 2025.0910.1615.36
+! Last modified: 11 Sep 2025 03:27 UTC
+! Version: 2025.0911.0327.35
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -174,7 +174,7 @@
 ||moda^$doc
 ||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cubari.moe|~ddlc.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~uma.moe
 ||mom^$doc
-||money^$doc,domain=~flowyour.money|~unstoppable.money|~vivid.money
+||money^$doc,domain=~flowyour.money|~unstoppable.money|~usual.money|~vivid.money
 ||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster
 ||motorcycles^$doc
 ||mov^$doc,domain=~david.mov|~peerflix.mov|~pstream.mov|~spankbang.mov

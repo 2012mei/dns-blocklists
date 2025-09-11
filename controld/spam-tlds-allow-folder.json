@@ -4348,6 +4348,13 @@
       }
     },
     {
+      "PK": "usual.money",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "vaultcord.win",
       "action": {
         "do": 1,
