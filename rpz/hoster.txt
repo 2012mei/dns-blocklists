@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757400420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757564760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Sep 2025 06:47 UTC
-; Version: 2025.0909.0647.51
+; Last modified: 11 Sep 2025 04:26 UTC
+; Version: 2025.0911.0426.56
 ; Syntax: RPZ
-; Number of entries: 4256
+; Number of entries: 4266
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1571,6 +1571,8 @@ qowap.com CNAME .
 *.qowap.com CNAME .
 raidersfanteamshop.com CNAME .
 *.raidersfanteamshop.com CNAME .
+realscienceblogs.com CNAME .
+*.realscienceblogs.com CNAME .
 rest7.com CNAME .
 *.rest7.com CNAME .
 review-blogger.com CNAME .
@@ -1697,6 +1699,8 @@ tempisite.com CNAME .
 *.tempisite.com CNAME .
 terapad.com CNAME .
 *.terapad.com CNAME .
+the-finance-world.com CNAME .
+*.the-finance-world.com CNAME .
 theblogaddict.com CNAME .
 *.theblogaddict.com CNAME .
 theblogfairy.com CNAME .
@@ -1883,6 +1887,8 @@ xaper.com CNAME .
 *.xaper.com CNAME .
 xbl0g.com CNAME .
 *.xbl0g.com CNAME .
+xbloggers.com CNAME .
+*.xbloggers.com CNAME .
 xooit.com CNAME .
 *.xooit.com CNAME .
 xsltel.com CNAME .
@@ -2285,6 +2291,10 @@ ucoz.de CNAME .
 *.ucoz.de CNAME .
 verkniffen.de CNAME .
 *.verkniffen.de CNAME .
+voellig-daneben.de CNAME .
+*.voellig-daneben.de CNAME .
+vollsten.de CNAME .
+*.vollsten.de CNAME .
 web-clan.de CNAME .
 *.web-clan.de CNAME .
 webblog24.de CNAME .
@@ -2305,8 +2315,6 @@ zx9.de CNAME .
 *.zx9.de CNAME .
 bearblog.dev CNAME .
 *.bearblog.dev CNAME .
-deno.dev CNAME .
-*.deno.dev CNAME .
 hashnode.dev CNAME .
 *.hashnode.dev CNAME .
 r2.dev CNAME .
@@ -3365,6 +3373,8 @@ vefblog.net CNAME .
 *.vefblog.net CNAME .
 vmn.net CNAME .
 *.vmn.net CNAME .
+vollidiot.net CNAME .
+*.vollidiot.net CNAME .
 web1337.net CNAME .
 *.web1337.net CNAME .
 webfreehosting.net CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Sep 2025 06:47 UTC
-# Version: 2025.0909.0647.51
+# Last modified: 11 Sep 2025 04:26 UTC
+# Version: 2025.0911.0426.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2128
+# Number of entries: 2133
 #
 local=/000a.de/
 local=/000free.us/
@@ -781,7 +781,6 @@ local=/de.pl/
 local=/de-2.de/
 local=/de-info.de/
 local=/deandryesclothing.shop/
-local=/deno.dev/
 local=/design.tl/
 local=/designcarthosting.com/
 local=/designertoblog.com/
@@ -1632,6 +1631,7 @@ local=/r2.dev/
 local=/radiola.club/
 local=/raidersfanteamshop.com/
 local=/re2.de/
+local=/realscienceblogs.com/
 local=/reblog.hu/
 local=/recentblog.net/
 local=/reco.ws/
@@ -1815,6 +1815,7 @@ local=/test.lc/
 local=/testingnow.me/
 local=/tgpropower.top/
 local=/th.gp/
+local=/the-finance-world.com/
 local=/theblog.me/
 local=/theblogaddict.com/
 local=/theblogfairy.com/
@@ -1940,6 +1941,9 @@ local=/virtue.nu/
 local=/virus.in/
 local=/vmn.net/
 local=/vn.gp/
+local=/voellig-daneben.de/
+local=/vollidiot.net/
+local=/vollsten.de/
 local=/voten.in/
 local=/vpswala.org/
 local=/vxub.com/
@@ -2078,6 +2082,7 @@ local=/xanga.com/
 local=/xaper.com/
 local=/xbl0g.com/
 local=/xblog.in/
+local=/xbloggers.com/
 local=/xinei.shop/
 local=/xl.lc/
 local=/xml.in/

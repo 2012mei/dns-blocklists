@@ -1100,6 +1100,13 @@
       }
     },
     {
+      "PK": "dyn.sport",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "eddie.website",
       "action": {
         "do": 1,
@@ -1423,6 +1430,13 @@
     },
     {
       "PK": "futurology.today",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "fx.wtf",
       "action": {
         "do": 1,
         "status": 1
@@ -2773,6 +2787,13 @@
       }
     },
     {
+      "PK": "nocut.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "nordland.shop",
       "action": {
         "do": 1,
@@ -2886,6 +2907,13 @@
     },
     {
       "PK": "online.church",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "onlinesizing.bike",
       "action": {
         "do": 1,
         "status": 1
@@ -4138,6 +4166,13 @@
       }
     },
     {
+      "PK": "tmaeno.tokyo",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "toast.ooo",
       "action": {
         "do": 1,
@@ -4307,6 +4342,13 @@
     },
     {
       "PK": "userstyles.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "usual.money",
       "action": {
         "do": 1,
         "status": 1

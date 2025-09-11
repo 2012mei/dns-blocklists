@@ -26,6 +26,7 @@
 @@||xhamster.best^
 @@||dat.bike^
 @@||lime.bike^
+@@||onlinesizing.bike^
 @@||rapido.bike^
 @@||anonymurl.biz^
 @@||asana.biz^
@@ -313,6 +314,7 @@
 @@||uma.moe^
 @@||flowyour.money^
 @@||unstoppable.money^
+@@||usual.money^
 @@||vivid.money^
 @@||cloudcdn.monster^
 @@||fedi.monster^
@@ -440,6 +442,7 @@
 @@||majblomman.shop^
 @@||munu.shop^
 @@||music-merchant.shop^
+@@||nocut.shop^
 @@||nordland.shop^
 @@||owl-dampfer.shop^
 @@||prohibited.shop^
@@ -507,6 +510,7 @@
 @@||telegram.space^
 @@||truepeople.space^
 @@||uexcorp.space^
+@@||dyn.sport^
 @@||adidashardware.store^
 @@||beyondagency.store^
 @@||bigtimerush.store^
@@ -558,6 +562,7 @@
 @@||lemmy.today^
 @@||oldweb.today^
 @@||type.today^
+@@||tmaeno.tokyo^
 @@||ambr.top^
 @@||caitlin.top^
 @@||corriente.top^
@@ -660,6 +665,7 @@
 @@||wiz.world^
 @@||akko.wtf^
 @@||cyber.wtf^
+@@||fx.wtf^
 @@||ip.wtf^
 @@||lemmy.wtf^
 @@||myip.wtf^

@@ -1610,6 +1610,13 @@
       }
     },
     {
+      "PK": "dyn.sport",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.eco",
       "action": {
         "do": 0,
@@ -2122,6 +2129,13 @@
     },
     {
       "PK": "futurology.today",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "fx.wtf",
       "action": {
         "do": 1,
         "status": 1
@@ -3941,6 +3955,13 @@
       }
     },
     {
+      "PK": "nocut.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.non",
       "action": {
         "do": 0,
@@ -4096,6 +4117,13 @@
     },
     {
       "PK": "online.church",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "onlinesizing.bike",
       "action": {
         "do": 1,
         "status": 1
@@ -5859,6 +5887,13 @@
       }
     },
     {
+      "PK": "tmaeno.tokyo",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "toast.ooo",
       "action": {
         "do": 1,
@@ -6093,6 +6128,13 @@
       "PK": "*.us.kg",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "usual.money",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

@@ -1,6 +1,13 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/7276
+0.datadog.pool.ntp.org
+1.datadog.pool.ntp.org
+2.datadog.pool.ntp.org
+3.datadog.pool.ntp.org
+datadog.pool.ntp.org
+
 # https://github.com/hagezi/dns-blocklists/issues/7212
 www.hacker-model.com
 

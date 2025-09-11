@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Sep 2025 06:47 UTC
-# Version: 2025.0909.0647.51
+# Last modified: 11 Sep 2025 04:26 UTC
+# Version: 2025.0911.0426.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 2128
+# Number of entries: 2133
 #
 000a.de
 000free.us
@@ -781,7 +781,6 @@ de.pl
 de-2.de
 de-info.de
 deandryesclothing.shop
-deno.dev
 design.tl
 designcarthosting.com
 designertoblog.com
@@ -1632,6 +1631,7 @@ r2.dev
 radiola.club
 raidersfanteamshop.com
 re2.de
+realscienceblogs.com
 reblog.hu
 recentblog.net
 reco.ws
@@ -1815,6 +1815,7 @@ test.lc
 testingnow.me
 tgpropower.top
 th.gp
+the-finance-world.com
 theblog.me
 theblogaddict.com
 theblogfairy.com
@@ -1940,6 +1941,9 @@ virtue.nu
 virus.in
 vmn.net
 vn.gp
+voellig-daneben.de
+vollidiot.net
+vollsten.de
 voten.in
 vpswala.org
 vxub.com
@@ -2078,6 +2082,7 @@ xanga.com
 xaper.com
 xbl0g.com
 xblog.in
+xbloggers.com
 xinei.shop
 xl.lc
 xml.in

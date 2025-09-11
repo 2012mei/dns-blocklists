@@ -52,11 +52,11 @@ See also: [Which sources are used for the lists and how are the lists compiled o
 
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | 118605<br>70097     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
-| :blue_book:[Normal](#normal)       | 339294<br>155103     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
-| :ledger:[Pro](#pro)              | 455883<br>206492         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
-| :orange_book:[Pro++](#proplus)    | 619999<br>300241 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 843824<br>433788 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
+| :green_book:[Light](#light)             | 97223<br>55736     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
+| :blue_book:[Normal](#normal)       | 332613<br>157706     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
+| :ledger:[Pro](#pro)              | 450418<br>211018         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | 609570<br>305342 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 830561<br>439710 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
 
 :green_circle: contains the list named in the column caption
 :yellow_square: partially contains the list named in the column caption
@@ -87,12 +87,12 @@ Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking
 > [!IMPORTANT]
 > Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.
 
-**Entries:** 118605 domains/hosts - 13179 compressed hosts - 70097 compressed domains
+**Entries:** 97223 domains/hosts - 10803 compressed hosts - 55736 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light-compressed.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light-compressed.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/light-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/light.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/light.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/light.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/light.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/dnsmasq/light.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -112,12 +112,12 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 > [!IMPORTANT]
 > Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.
 
-**Entries:** 339294 domains/hosts - 37700 compressed hosts - 155103 compressed domains
+**Entries:** 332613 domains/hosts - 36957 compressed hosts - 157706 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/multi.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/multi.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi-compressed.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi-compressed.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/multi-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/multi.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/multi.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/multi.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/multi.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/dnsmasq/multi.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -133,12 +133,12 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 > **Blocking type:** Balanced            
 > This list version should only very rarely lead to restrictions. It is suitable for environments where there is an admin nearby who can unblock something. My personal recommendation for mostly problem-free adblocking with good privacy protection.
 
-**Entries:** 455883 domains/hosts - 50654 compressed hosts - 206492 compressed domains
+**Entries:** 450418 domains/hosts - 50047 compressed hosts - 211018 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/pro.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/pro.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro-compressed.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro-compressed.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/pro.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/pro.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/dnsmasq/pro.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -150,7 +150,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 103174 compressed domains
+**Entries:** 76141 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -172,12 +172,12 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 > **Referral domains (affiliate and tracking links):**           
 > A few referral domains that also function as normal trackers are blocked. For further details see: [Referral domains](https://github.com/hagezi/dns-blocklists/wiki/FAQ#referral)
 
-**Entries:** 619999 domains/hosts - 68889 compressed hosts - 300241 compressed domains
+**Entries:** 609570 domains/hosts - 67730 compressed hosts - 305342 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/pro.plus.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/pro.plus.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus-compressed.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus-compressed.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/pro.plus-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.plus.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.plus.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/pro.plus.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/dnsmasq/pro.plus.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -189,7 +189,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Pro++ full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 117591 compressed domains
+**Entries:** 90397 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -223,12 +223,12 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 >**Miscellaneous:**          
 > Details on other known issues can be found [here](share/ultimate-known-issues.txt).  
                    
-**Entries:** 843824 domains/hosts - 93759 compressed hosts - 433788 compressed domains
+**Entries:** 830561 domains/hosts - 92285 compressed hosts - 439710 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/ultimate.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/ultimate.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate-compressed.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate-compressed.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/ultimate-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/ultimate.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/ultimate.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/ultimate.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/dnsmasq/ultimate.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -240,7 +240,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 
 Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RAM. This list only contains domains from the Ultimate full that have been found on Top 1/10M lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop).
 
-**Entries:** 167990 compressed domains
+**Entries:** 111995 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -262,7 +262,7 @@ A blocklist for blocking fake stores, -streaming, rip-offs, cost traps and co.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 13841 compressed domains
+**Entries:** 14030 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -287,7 +287,7 @@ A blocklist for annoying and malicious pop-up ads.
 > [!NOTE]
 > Fully included in Pro++ and Ultimate. Partially in Pro. In the combination of the Pro and additionally the Threat Intelligence Feeds (TIF) Medium or Full, all domains from the Pop-Up Ads list are included. This means that if you use the Pro and also the TIF medium or full, you no longer need to add this list separately.
 
-**Entries:** 105940 compressed domains
+**Entries:** 107719 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -309,12 +309,12 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 773421 domains/hosts - 85936 compressed hosts - 645548 compressed domains
+**Entries:** 780365 domains/hosts - 86708 compressed hosts - 651108 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/tif.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/tif.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif-compressed.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif-compressed.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/tif-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/tif.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home (only devices with >= 1GB RAM!), eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/tif.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/tif.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/dnsmasq/tif.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -332,7 +332,7 @@ A medium version of the Threat Intelligence Feeds list. Designed for Adblockers 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 364992 compressed domains
+**Entries:** 363338 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -352,7 +352,7 @@ A size-optimised version of the Threat Intelligence Feeds Medium list. Designed 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 145839 compressed domains
+**Entries:** 143820 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -375,16 +375,25 @@ IPv4 lists in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blo
 ### :new: **Newly Registered Domains (NRD)** <a name="nrd"></a>
 
 Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. However, relying on NRDs alone risks false positives since legitimate organizations also register new domains for branding or infrastructure.
-     
-The daily NRD data in plain domain format is stored in the [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) with filenames following the pattern `nrd_YYYY-MM-DD.txt`. Each file corresponds to a single day, and the last 31 days of data are available.     
+        
+| Time<br>period | Format<br>AdBlock | Format<br>Domains |         
+|:--------------:|:-----------------:|:-----------------:|
+| 7 days ago to yesterday    | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nrd7.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd7.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd7.txt) | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/nrd7.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd7.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd7.txt) |
+| 14 days ago to 8 days ago  | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nrd14-8.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nrd14-8.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nrd14-8.txt) | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/nrd14-8.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/nrd14-8.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/nrd14-8.txt) |
+| 21 days ago to 15 days ago | | |
+| 28 days ago to 22 days ago | | |
+| 35 days ago to 29 days ago | | |
+             
+> [!NOTE]
+> To block NRDs from the last 14 days, combine the domain lists from 7 days ago and 14 days ago. For blocking NRDs from the last 21 days, combine lists from 7, 14, and 21 days ago. Etc.
+             
+The daily NRD raw data in plain domain format is stored in the [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) with filenames following the pattern `nrd_YYYY-MM-DD.txt`. Each file corresponds to a single day, and the last 35 days of data are available.     
                        
 > [!TIP]
-> Daily NRDs can be used for advanced analyses, domain extraction based on specific patterns, or for generating custom NRD lists spanning defined time periods (e.g., 7, 14, 21, or 31 days).              
+> Daily NRDs can be used for advanced analyses, domain extraction based on specific patterns, or for generating custom NRD lists spanning defined time periods (e.g., 7, 14, 21, 28 or 35 days).              
 >                             
-> The [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) includes a Bash script named `merge_nrds_days.sh` for compiling NRD lists over a specified number of days. For example, to generate a 7-day NRD list, use the command: `merge_nrds_days.sh 7 /share /share/nrds-7-days.txt`
-                
-> [!NOTE]
-> Plans are underway to provide combined Newly Registered Domain (NRD) lists for multiple time periods, including 7, 14, 21, and 31 days.
+> The [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) includes a Bash script named `merge_nrds_days.sh` for compiling NRD lists over a specified number of days. For example, to generate a 7-day NRD list, use the command:                     
+> `merge_nrds_days.sh 7 /share /share/nrds-7-days.txt`
 
 ---
 
@@ -405,7 +414,7 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 4777 compressed domains
+**Entries:** 4799 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -423,12 +432,12 @@ Prevent methods to bypass your DNS.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 1641 domains/hosts - 183 compressed hosts - 1481 compressed domains
+**Entries:** 1639 domains/hosts - 183 compressed hosts - 1479 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/doh.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/doh.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/doh.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/doh.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/doh-compressed.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh-compressed.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/hosts/doh-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/doh.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/doh.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/doh.txt) [GL](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/doh.txt) [CB](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/dnsmasq/doh.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -478,7 +487,7 @@ A blocklist for blocking dynamic DNS services to protect against malicious use i
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 1470 compressed domains
+**Entries:** 1472 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -505,7 +514,7 @@ A blocklist for blocking known hosters that also host badware via user content t
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 2128 compressed domains
+**Entries:** 2133 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -533,7 +542,7 @@ A blocklist for blocking all known URL/link shortener.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 6386 compressed domains
+**Entries:** 6423 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -585,7 +594,7 @@ Blocks websites and services that are mainly used for the illegal distribution o
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 10983 compressed domains
+**Entries:** 11096 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -607,7 +616,7 @@ Blocks gambling content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 184674 compressed domains
+**Entries:** 184995 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -627,7 +636,7 @@ A medium version of the Gambling list. Designed for Adblockers that have problem
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 91707 compressed domains
+**Entries:** 91937 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -647,7 +656,7 @@ A size-optimised version of the Gambling Medium list. This list only contains do
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 63831 compressed domains
+**Entries:** 36586 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -669,7 +678,7 @@ Blocks adult content.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 122558 compressed domains
+**Entries:** 123837 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -739,19 +748,27 @@ If you don't run your own DNS server on your home network or if you are looking 
 
 **Availability of the lists in the respective DNS services:** <a name="availablelists"></a>
 
-| Service | Light | Nor<br>mal | Pro | Pro<br>++ | Ulti<br>mate | TIF | By<br>pass | Dyn<br>DNS | Hoster | TLDs | Anti<br>Piracy | Gam<br>bling |
-| :----- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| AdGuard<br>DNS         | :x:            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   |
-| ControlD            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square:  | :yellow_square:  | :notebook:            | :notebook:            | :yellow_square:  | :yellow_square:  |
-| Rethink<br>DNS          | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle: | :x:            | :x:              | :x:              |
-| DNS<br>warden           | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :x:              | :x:              | :x:            | :x:            | :x:              | :x:              |
+| Service | Light | Nor<br>mal | Pro | Pro<br>++ | Ulti<br>mate | TIF | By<br>pass | Dyn<br>DNS | Hoster | TLDs | Anti<br>Piracy | Gam<br>bling | ... |
+| :----- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| AdGuard<br>DNS         | :x:            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   | :green_circle: |
+| ControlD            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square:  | :yellow_square:  | :notebook:            | :notebook:            | :yellow_square:  | :yellow_square:  | :x: |
+| Rethink<br>DNS          | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle: | :x:            | :x:              | :x: | :x: |
+| DNS<br>warden           | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :x:              | :x:              | :x:            | :x:            | :x:              | :x:              | :x: |
 
 :yellow_square: Are included in the ControlD native lists of the respective category.                        
 :notebook: Available as [ControlD folder](https://github.com/hagezi/dns-blocklists/tree/main/controld).
 
-#### :department_store: **AdGuardDNS - limited free/paid** <a name="adguarddns"></a>
+#### :department_store: **AdGuardDNS - limited free/unlimited trial/paid** <a name="adguarddns"></a>
 
-In [AdGuardDNS](https://adguard-dns.io) you can use my Multi Normal, Pro, Pro++, Ultimate, TIF, Gambling, Anti Piracy, DoH/VPN/TOR/Proxy Bypass, DynDNS, Badware Hoster, Most Abused TLDs list and the Allowlist Referral.
+In [AdGuardDNS](https://adguard-dns.io) you can use my:
+
+- Normal, Pro, Pro++, Ultimate
+- Threat-Intelligence-Feeds (TIF), Most Abused TLDs, Badware Hoster, DynDNS, DNS Rebind Protection, URLshortener
+- DoH/VPN/TOR/Proxy Bypass
+- Gambling
+- Anti Piracy
+- Native Tracker (Apple, OPPO & Realme, Samsung, Vivo, Windows/Office, Xiaomi)
+- Allowlist Referral
 
 #### :department_store: **ControlD - free/paid** <a name="controld"></a>
 
@@ -799,9 +816,17 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
 
+#### :department_store: **DNSBUNKER.org (Germany) - free** <a name="dnsbunker"></a>
+
+[DNSBUNKER.org](https://dnsbunker.org/) uses my Pro++ in combination with the TIF blocklist and the allowlist Referral.
+
+| Blocklists | DNS-over-HTTPS/3 | DNS-over-TLS/QUIC |
+|:-----------|:---------------|:------------------|
+| Pro plus + TIF | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` |
+
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 
-[OpenBLD.net](https://openbld.net/docs/get-started/third-party-filters/hagezi/) uses my Multi Pro in combination with the TIF blocklist.
+[OpenBLD.net](https://openbld.net/docs/get-started/third-party-filters/hagezi/) uses my Pro in combination with the TIF blocklist.
 
 | Blocklists | DNS-over-HTTPS | 
 |:-----------|:---------------|

@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Sep 2025 06:48 UTC
-# Version: 2025.0909.0648.15
+# Last modified: 10 Sep 2025 17:40 UTC
+# Version: 2025.0910.1740.08
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6386
+# Number of entries: 6423
 #
 *.0.gp
 *.00m.in
@@ -2028,6 +2028,8 @@
 *.gjk.id
 *.gkurl.us
 *.gl.am
+*.glatt.io
+*.glattly.com
 *.glb.pw
 *.glblctzn.co
 *.glblctzn.me
@@ -3092,6 +3094,7 @@
 *.lnkiy.com
 *.lnkiy.in
 *.lnkm.ee
+*.lnkr1.com
 *.lnks.ai
 *.lnks.es
 *.lnks.fr
@@ -3661,6 +3664,7 @@
 *.nswroads.work
 *.ntalij.com
 *.ntap.com
+*.ntbk.io
 *.ntbx.ir
 *.ntck.co
 *.ntlink.co
@@ -3721,6 +3725,7 @@
 *.oink.us
 *.oinla.com
 *.ok.link
+*.ok.tc
 *.ok2.com
 *.okdc.me
 *.oke.io
@@ -3770,6 +3775,7 @@
 *.oplink.club
 *.opn.my
 *.n.opn.tl
+*.opportunityonlinebusiness.com
 *.opr.as
 *.opr.news
 *.ops.consulting
@@ -3841,6 +3847,7 @@
 *.pag.la
 *.page.link
 *.paksa.click
+*.panitech.us
 *.paperspeedy.com
 *.parg.co
 *.lien.paribal.fr
@@ -3887,6 +3894,7 @@
 *.peekstory.com
 *.peen.ca
 *.peerwith.me
+*.pegasurl.com
 *.pekcamke.link
 *.pens.pe
 *.peoplem.ag
@@ -3981,6 +3989,7 @@
 *.posted.at
 *.postmylink.com
 *.potr12.org
+*.go.poweren.ir
 *.pp.cr
 *.ppdail.com
 *.pplx.ai
@@ -3997,6 +4006,7 @@
 *.pre.la
 *.prel.ink
 *.premex.link
+*.premierbet.live
 *.preml.ge
 *.prendre-rendezvous.com
 *.prephe.ro
@@ -4086,6 +4096,7 @@
 *.qnap.to
 *.qo.dk
 *.qoo.by
+*.qowrk.com
 *.qptr.ru
 *.qqc.co
 *.qr.ae
@@ -4116,6 +4127,7 @@
 *.qrkiss.com
 *.qrlinker.net
 *.qrlit.com
+*.qrly.io
 *.qrme.be
 *.qrnesign.com
 *.qrouton.jp
@@ -4235,6 +4247,7 @@
 *.reducelnk.com
 *.redvt.cc
 *.reel.io
+*.ref.gs
 *.ref.so
 *.ref11.top
 *.refer.is
@@ -4308,6 +4321,7 @@
 *.rool.ink
 *.roq.to
 *.rotf.lol
+*.rouletteonline.live
 *.rounash.com
 *.rozhl.as
 *.rpf.io
@@ -4329,6 +4343,7 @@
 *.ruplink.com
 *.rusd.in
 *.rushgiving.com
+*.rusuhkali.xyz
 *.rutgon.top
 *.rutgonurl.com
 *.ruvi.me
@@ -4666,6 +4681,7 @@
 *.shortshare.app
 *.shortstat.com
 *.shortswitch.com
+*.shortturl.co
 *.shortu.be
 *.shortuel.asia
 *.shorturl.ac
@@ -4726,6 +4742,7 @@
 *.shrt.lat
 *.shrt.st
 *.shrt.vip
+*.shrt-l.ink
 *.shrtco.de
 *.shrten.com
 *.shrten.us
@@ -4816,6 +4833,7 @@
 *.sku.su
 *.sky.si
 *.skyclad.me
+*.skye.to
 *.skysss.uk
 *.skyurl.cc
 *.sl4.me
@@ -4832,6 +4850,7 @@
 *.slotamina.com
 *.slpre.com
 *.slptr.com
+*.sly.be
 *.slynk.in
 *.sm-s.in
 *.sm4ll.in
@@ -4881,6 +4900,7 @@
 *.snip.ly
 *.snip.ng
 *.snipi.io
+*.snipit.in
 *.sniply.io
 *.sniplytics.com
 *.snipmojo.com
@@ -5105,6 +5125,7 @@
 *.tbsi.app
 *.tcc.io
 *.tcch.ch
+*.tckl.party
 *.tcp.pw
 *.tcrn.ch
 *.on.tcs.com
@@ -5120,6 +5141,7 @@
 *.teeplantage.de
 *.teil.cc
 *.tek.io
+*.teknut.com
 *.telegramviral.com
 *.telegramviral.online
 *.teleko.me
@@ -5169,6 +5191,7 @@
 *.thesocial.vip
 *.thetim.es
 *.thetinyurls.com
+*.theurl.to
 *.thght.works
 *.thinfi.com
 *.thinl.ink
@@ -5317,6 +5340,7 @@
 *.tny.so
 *.tny.ws
 *.tny.xyz
+*.tnyr.me
 *.tnyurl.one
 *.tnyurl.pro
 *.to.lk
@@ -5346,6 +5370,7 @@
 *.topt.al
 *.topurl.cc
 *.topurl.link
+*.tos-test.com
 *.toskys.cn
 *.toss.is
 *.toto.pe
@@ -5428,6 +5453,7 @@
 *.tt.vg
 *.ttad.me
 *.ttbad.com
+*.ttdt.info
 *.tto.jp
 *.ttoo.top
 *.ttrewards.com
@@ -5463,7 +5489,9 @@
 *.twitspin.win
 *.twitterpan.com
 *.twitthis.com
+*.twiturl.de
 *.twixar.com
+*.twlink.ir
 *.twm5g.co
 *.two.re
 *.twou.co
@@ -5479,6 +5507,7 @@
 *.tyny.me
 *.typit.in
 *.tyrano-shortener.in
+*.tzu.to
 *.u.nu
 *.u.to
 *.u-link.asia
@@ -5562,6 +5591,7 @@
 *.upmchp.us
 *.upriserz.link
 *.upt.sh
+*.upyun.online
 *.upzat.com
 *.ur.link
 *.ur-l.ru
@@ -5845,6 +5875,7 @@
 *.vipb.io
 *.vipcair.click
 *.vipjus.click
+*.viplink.us
 *.viprupiah138.net
 *.vipshortener.com
 *.vipslot4d.site
@@ -5901,6 +5932,7 @@
 *.vu.fr
 *.vur.me
 *.vurl.com
+*.vurlz.com
 *.vv.vg
 *.vvd.bz
 *.vvd.im
@@ -5926,6 +5958,7 @@
 *.waad.co
 *.wahoowa.net
 *.wajinlong.pro
+*.wakgengs.pro
 *.wal.ee
 *.walk.sc
 *.walkjc.org
@@ -6098,6 +6131,7 @@
 *.wun.io
 *.wuniw.com
 *.wurlie.net
+*.wurlz.com
 *.ww7.fr
 *.wwat.ch
 *.wwf.to
@@ -6188,6 +6222,7 @@
 *.xurl.pk
 *.xurl302.top
 *.xurls.net
+*.xvirt.it
 *.xxxdwz.cc
 *.xxxdwz.co
 *.xxxdwz.com
@@ -6292,6 +6327,7 @@
 *.s.zazuko.com
 *.zbitly.com
 *.zc.vg
+*.zcays.com
 *.zctz.me
 *.zcu.io
 *.zd.net
@@ -6336,6 +6372,7 @@
 *.zkr.cz
 *.zkr.pw
 *.zkrat.me
+*.zkrt.cz
 *.zlink.fun
 *.zln.do
 *.zlnk.com

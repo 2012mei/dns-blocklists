@@ -92,7 +92,7 @@ Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](lnkgh_d/light.txt) [GL](lnkgl_d/light.txt) [CB](lnkjd_d/light.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](lnkgh_h/light.txt) [GL](lnkgl_h/light.txt) [CB](lnkjd_h/light.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](lnkgh_h/light.txt) [GL](lnkgl_h/light.txt) [CB](lnkjd_h/light.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/light-compressed.txt) [GL](lnkgl_h/light-compressed.txt) [CB](lnkjd_h/light-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](lnkgh_a/light.txt) [GL](lnkgl_a/light.txt) [CB](lnkjd_a/light.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/light.txt) [GL](lnkgl_m/light.txt) [CB](lnkjd_m/light.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -117,7 +117,7 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](lnkgh_d/multi.txt) [GL](lnkgl_d/multi.txt) [CB](lnkjd_d/multi.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](lnkgh_h/multi.txt) [GL](lnkgl_h/multi.txt) [CB](lnkjd_h/multi.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](lnkgh_h/multi.txt) [GL](lnkgl_h/multi.txt) [CB](lnkjd_h/multi.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/multi-compressed.txt) [GL](lnkgl_h/multi-compressed.txt) [CB](lnkjd_h/multi-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](lnkgh_a/multi.txt) [GL](lnkgl_a/multi.txt) [CB](lnkjd_a/multi.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/multi.txt) [GL](lnkgl_m/multi.txt) [CB](lnkjd_m/multi.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -138,7 +138,7 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](lnkgh_d/pro.txt) [GL](lnkgl_d/pro.txt) [CB](lnkjd_d/pro.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](lnkgh_h/pro.txt) [GL](lnkgl_h/pro.txt) [CB](lnkjd_h/pro.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](lnkgh_h/pro.txt) [GL](lnkgl_h/pro.txt) [CB](lnkjd_h/pro.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/pro-compressed.txt) [GL](lnkgl_h/pro-compressed.txt) [CB](lnkjd_h/pro-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](lnkgh_a/pro.txt) [GL](lnkgl_a/pro.txt) [CB](lnkjd_a/pro.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](lnkgh_m/pro.txt) [GL](lnkgl_m/pro.txt) [CB](lnkjd_m/pro.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -177,7 +177,7 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](lnkgh_d/pro.plus.txt) [GL](lnkgl_d/pro.plus.txt) [CB](lnkjd_d/pro.plus.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](lnkgh_h/pro.plus.txt) [GL](lnkgl_h/pro.plus.txt) [CB](lnkjd_h/pro.plus.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](lnkgh_h/pro.plus.txt) [GL](lnkgl_h/pro.plus.txt) [CB](lnkjd_h/pro.plus.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/pro.plus-compressed.txt) [GL](lnkgl_h/pro.plus-compressed.txt) [CB](lnkjd_h/pro.plus-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](lnkgh_a/pro.plus.txt) [GL](lnkgl_a/pro.plus.txt) [CB](lnkjd_a/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](lnkgh_m/pro.plus.txt) [GL](lnkgl_m/pro.plus.txt) [CB](lnkjd_m/pro.plus.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -228,7 +228,7 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](lnkgh_d/ultimate.txt) [GL](lnkgl_d/ultimate.txt) [CB](lnkjd_d/ultimate.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](lnkgh_h/ultimate.txt) [GL](lnkgl_h/ultimate.txt) [CB](lnkjd_h/ultimate.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](lnkgh_h/ultimate.txt) [GL](lnkgl_h/ultimate.txt) [CB](lnkjd_h/ultimate.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/ultimate-compressed.txt) [GL](lnkgl_h/ultimate-compressed.txt) [CB](lnkjd_h/ultimate-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](lnkgh_a/ultimate.txt) [GL](lnkgl_a/ultimate.txt) [CB](lnkjd_a/ultimate.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](lnkgh_m/ultimate.txt) [GL](lnkgl_m/ultimate.txt) [CB](lnkjd_m/ultimate.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -314,7 +314,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](lnkgh_d/tif.txt) [GL](lnkgl_d/tif.txt) [CB](lnkjd_d/tif.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](lnkgh_h/tif.txt) [GL](lnkgl_h/tif.txt) [CB](lnkjd_h/tif.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](lnkgh_h/tif.txt) [GL](lnkgl_h/tif.txt) [CB](lnkjd_h/tif.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/tif-compressed.txt) [GL](lnkgl_h/tif-compressed.txt) [CB](lnkjd_h/tif-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](lnkgh_a/tif.txt) [GL](lnkgl_a/tif.txt) [CB](lnkjd_a/tif.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home (only devices with >= 1GB RAM!), eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
 | DNSMasq | [GH](lnkgh_m/tif.txt) [GL](lnkgl_m/tif.txt) [CB](lnkjd_m/tif.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -375,16 +375,25 @@ IPv4 lists in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blo
 ### :new: **Newly Registered Domains (NRD)** <a name="nrd"></a>
 
 Newly registered domains (NRDs) are commonly used by threat actors for phishing, malware, and command-and-control infrastructure due to their disposable nature, which helps evade detection. However, relying on NRDs alone risks false positives since legitimate organizations also register new domains for branding or infrastructure.
-     
-The daily NRD data in plain domain format is stored in the [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) with filenames following the pattern `nrd_YYYY-MM-DD.txt`. Each file corresponds to a single day, and the last 31 days of data are available.     
+        
+| Time<br>period | Format<br>AdBlock | Format<br>Domains |         
+|:--------------:|:-----------------:|:-----------------:|
+| 7 days ago to yesterday    | [GH](lnkgh_a/nrd7.txt) [GL](lnkgl_a/nrd7.txt) [CB](lnkjd_a/nrd7.txt) | [GH](lnkgh_d/nrd7.txt) [GL](lnkgl_d/nrd7.txt) [CB](lnkjd_d/nrd7.txt) |
+| 14 days ago to 8 days ago  | [GH](lnkgh_a/nrd14-8.txt) [GL](lnkgl_a/nrd14-8.txt) [CB](lnkjd_a/nrd14-8.txt) | [GH](lnkgh_d/nrd14-8.txt) [GL](lnkgl_d/nrd14-8.txt) [CB](lnkjd_d/nrd14-8.txt) |
+| 21 days ago to 15 days ago | | |
+| 28 days ago to 22 days ago | | |
+| 35 days ago to 29 days ago | | |
+             
+> [!NOTE]
+> To block NRDs from the last 14 days, combine the domain lists from 7 days ago and 14 days ago. For blocking NRDs from the last 21 days, combine lists from 7, 14, and 21 days ago. Etc.
+             
+The daily NRD raw data in plain domain format is stored in the [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) with filenames following the pattern `nrd_YYYY-MM-DD.txt`. Each file corresponds to a single day, and the last 35 days of data are available.     
                        
 > [!TIP]
-> Daily NRDs can be used for advanced analyses, domain extraction based on specific patterns, or for generating custom NRD lists spanning defined time periods (e.g., 7, 14, 21, or 31 days).              
+> Daily NRDs can be used for advanced analyses, domain extraction based on specific patterns, or for generating custom NRD lists spanning defined time periods (e.g., 7, 14, 21, 28 or 35 days).              
 >                             
-> The [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) includes a Bash script named `merge_nrds_days.sh` for compiling NRD lists over a specified number of days. For example, to generate a 7-day NRD list, use the command: `merge_nrds_days.sh 7 /share /share/nrds-7-days.txt`
-                
-> [!NOTE]
-> Plans are underway to provide combined Newly Registered Domain (NRD) lists for multiple time periods, including 7, 14, 21, and 31 days.
+> The [share directory](https://github.com/hagezi/dns-blocklists/tree/main/share) includes a Bash script named `merge_nrds_days.sh` for compiling NRD lists over a specified number of days. For example, to generate a 7-day NRD list, use the command:                     
+> `merge_nrds_days.sh 7 /share /share/nrds-7-days.txt`
 
 ---
 
@@ -428,7 +437,7 @@ Prevent methods to bypass your DNS.
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [GH](lnkgh_d/doh.txt) [GL](lnkgl_d/doh.txt) [CB](lnkjd_d/doh.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
-| Hosts | [GH](lnkgh_h/doh.txt) [GL](lnkgl_h/doh.txt) [CB](lnkjd_h/doh.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard |
+| Hosts | [GH](lnkgh_h/doh.txt) [GL](lnkgl_h/doh.txt) [CB](lnkjd_h/doh.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [GH](lnkgh_h/doh-compressed.txt) [GL](lnkgl_h/doh-compressed.txt) [CB](lnkjd_h/doh-compressed.txt) | Hostfile, Linux |
 | Adblock | [GH](lnkgh_a/doh.txt) [GL](lnkgl_a/doh.txt) [CB](lnkjd_a/doh.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
 | DNSMasq | [GH](lnkgh_m/doh.txt) [GL](lnkgl_m/doh.txt) [CB](lnkjd_m/doh.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -739,19 +748,27 @@ If you don't run your own DNS server on your home network or if you are looking 
 
 **Availability of the lists in the respective DNS services:** <a name="availablelists"></a>
 
-| Service | Light | Nor<br>mal | Pro | Pro<br>++ | Ulti<br>mate | TIF | By<br>pass | Dyn<br>DNS | Hoster | TLDs | Anti<br>Piracy | Gam<br>bling |
-| :----- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| AdGuard<br>DNS         | :x:            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   |
-| ControlD            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square:  | :yellow_square:  | :notebook:            | :notebook:            | :yellow_square:  | :yellow_square:  |
-| Rethink<br>DNS          | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle: | :x:            | :x:              | :x:              |
-| DNS<br>warden           | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :x:              | :x:              | :x:            | :x:            | :x:              | :x:              |
+| Service | Light | Nor<br>mal | Pro | Pro<br>++ | Ulti<br>mate | TIF | By<br>pass | Dyn<br>DNS | Hoster | TLDs | Anti<br>Piracy | Gam<br>bling | ... |
+| :----- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| AdGuard<br>DNS         | :x:            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   | :green_circle: | :green_circle: | :green_circle:   | :green_circle:   | :green_circle: |
+| ControlD            | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square:  | :yellow_square:  | :notebook:            | :notebook:            | :yellow_square:  | :yellow_square:  | :x: |
+| Rethink<br>DNS          | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle:   | :green_circle: | :x:            | :x:              | :x: | :x: |
+| DNS<br>warden           | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :x:              | :x:              | :x:            | :x:            | :x:              | :x:              | :x: |
 
 :yellow_square: Are included in the ControlD native lists of the respective category.                        
 :notebook: Available as [ControlD folder](https://github.com/hagezi/dns-blocklists/tree/main/controld).
 
-#### :department_store: **AdGuardDNS - limited free/paid** <a name="adguarddns"></a>
+#### :department_store: **AdGuardDNS - limited free/unlimited trial/paid** <a name="adguarddns"></a>
 
-In [AdGuardDNS](https://adguard-dns.io) you can use my Multi Normal, Pro, Pro++, Ultimate, TIF, Gambling, Anti Piracy, DoH/VPN/TOR/Proxy Bypass, DynDNS, Badware Hoster, Most Abused TLDs list and the Allowlist Referral.
+In [AdGuardDNS](https://adguard-dns.io) you can use my:
+
+- Normal, Pro, Pro++, Ultimate
+- Threat-Intelligence-Feeds (TIF), Most Abused TLDs, Badware Hoster, DynDNS, DNS Rebind Protection, URLshortener
+- DoH/VPN/TOR/Proxy Bypass
+- Gambling
+- Anti Piracy
+- Native Tracker (Apple, OPPO & Realme, Samsung, Vivo, Windows/Office, Xiaomi)
+- Allowlist Referral
 
 #### :department_store: **ControlD - free/paid** <a name="controld"></a>
 
@@ -799,9 +816,17 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 | Pro plus + TIF | `https://dns.dnswarden.com/0000000000000000000000o` | `0000000000000000000000o.dns.dnswarden.com` |
 | Ultimate + TIF | `https://dns.dnswarden.com/0000000000000000000000804` | `0000000000000000000000804.dns.dnswarden.com` |
 
+#### :department_store: **DNSBUNKER.org (Germany) - free** <a name="dnsbunker"></a>
+
+[DNSBUNKER.org](https://dnsbunker.org/) uses my Pro++ in combination with the TIF blocklist and the allowlist Referral.
+
+| Blocklists | DNS-over-HTTPS/3 | DNS-over-TLS/QUIC |
+|:-----------|:---------------|:------------------|
+| Pro plus + TIF | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` |
+
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 
-[OpenBLD.net](https://openbld.net/docs/get-started/third-party-filters/hagezi/) uses my Multi Pro in combination with the TIF blocklist.
+[OpenBLD.net](https://openbld.net/docs/get-started/third-party-filters/hagezi/) uses my Pro in combination with the TIF blocklist.
 
 | Blocklists | DNS-over-HTTPS | 
 |:-----------|:---------------|
