@@ -36,6 +36,7 @@ blogto.jp
 cafeblog.jp
 cnblogs.com
 corpblog.jp
+deno.dev
 diary.to
 doorblog.jp
 dreamlog.jp

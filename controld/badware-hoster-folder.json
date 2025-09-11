@@ -5328,13 +5328,6 @@
       }
     },
     {
-      "PK": "deno.dev",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "design.tl",
       "action": {
         "do": 0,
