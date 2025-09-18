@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 15 Sep 2025 19:46 UTC
-! Version: 2025.0915.1946.41
+! Last modified: 17 Sep 2025 19:25 UTC
+! Version: 2025.0917.1925.09
 ! Syntax: AdBlock
-! Number of entries: 5206
+! Number of entries: 5166
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -60,7 +60,6 @@
 ||dns.13evl.com^
 ||httpdns.c.163.com^
 ||httpdns.music.163.com^
-||16yd.com^
 ||doh.18bit.cn^
 ||cloud.198.games^
 ||1and1-dns.de^
@@ -465,6 +464,7 @@
 ||tips.bitesmagazine.com^
 ||bitping.com^
 ||dns.bitservices.io^
+||adguard.bitteeinbyte.de^
 ||dns-tls.bitwiseshift.net^
 ||physics.sciencestudy.biz.st^
 ||bizfast.info^
@@ -1018,7 +1018,7 @@
 ||cybershield.cc^
 ||cybersilent.com^
 ||cyberssh.com^
-||dns.cybertonic.tech^
+||cynntex.fun^
 ||dns.cynthialabs.net^
 ||dns.d365.in^
 ||d4.re^
@@ -1413,7 +1413,6 @@
 ||rammerhead.eu.org^
 ||sukidayo.eu.org^
 ||eurproxy.com^
-||joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru^
 ||everyproxies.info^
 ||evpn.net^
 ||evyy.net^
@@ -1499,7 +1498,6 @@
 ||filesdownloader.com^
 ||dns.filipccz.eu^
 ||filterbypass.me^
-||finalbreaths.xyz^
 ||finchvpn.com^
 ||fineproxy.org^
 ||finevpn.org^
@@ -1521,7 +1519,6 @@
 ||dns.flatuslifir.is^
 ||abdulv2.flazzard.com^
 ||vps.fleuryk.ovh^
-||dns.flightspace.net^
 ||dns01.flm9.net^
 ||ns1.flodns.net^
 ||ns2.flodns.net^
@@ -1537,7 +1534,6 @@
 ||flyvpn.com^
 ||schoolnotes.followork.net^
 ||gateway.fomichev.cloud^
-||buy.footlooseandfancyrich.com^
 ||for-privacy.net^
 ||rf4.forestberrypi.com^
 ||www-rf4.forestberrypi.com^
@@ -1582,7 +1578,6 @@
 ||freedomproxy.com^
 ||freeeuroproxy.com^
 ||freehiddenvpn.gq^
-||freehollandproxy.nl^
 ||freelux.world^
 ||atom.area.freemath.ch^
 ||freemicvpn.com^
@@ -1701,7 +1696,6 @@
 ||getproxylist.com^
 ||getsiteunblocked.com^
 ||gettwifi.com^
-||getusvpn.com^
 ||getvpnx.com^
 ||getxvpn.com^
 ||getxvpn.xyz^
@@ -1709,7 +1703,6 @@
 ||ghadrboland.ir^
 ||www-croxy.ghgi.site^
 ||ghostbrowser.com^
-||bubboforgottopayagain.ghostnation.org^
 ||ghostpath.com^
 ||gibblets.top^
 ||adguard.maison.gifino.fr^
@@ -1730,7 +1723,6 @@
 ||chaotic-guest-bestie.glacialpower.com^
 ||i-civics.glacialpower.com^
 ||glacius.top^
-||about.glasstechnik.ro^
 ||dns.glf.wtf^
 ||global-proxy.com^
 ||globalchatinc.com^
@@ -1745,7 +1737,6 @@
 ||agh.gloom.nexus^
 ||glype.com^
 ||dns.gnb09.id^
-||english.go25pedagogi.eu^
 ||privacydns.go6lab.si^
 ||goaslen.com^
 ||gobestvpn.com^
@@ -1930,7 +1921,6 @@
 ||hi.hollandweather.net^
 ||beta.holyunblocker.org^
 ||home-server.store^
-||zone.homebrewer.org^
 ||cometomyhouse.homelinuxserver.org^
 ||homemail.info^
 ||exceptionallypuremineralwaterfrommtfuji.homeonthewater.com^
@@ -1985,7 +1975,6 @@
 ||dns.huyhoangit.net^
 ||hyperbyte.net^
 ||dns.hypercute.eu^
-||math.hypernormal.org^
 ||i2p-projekt.de^
 ||i2pd.xyz^
 ||vd.i81.ru^
@@ -2004,7 +1993,6 @@
 ||tienpham.id.vn^
 ||idcloak.com^
 ||idealvpn.com^
-||curry.idemonch.cl^
 ||crazygamers737.idigo.org^
 ||idolproxy.com^
 ||adguard.shuting.idv.tw^
@@ -2177,7 +2165,6 @@
 ||unfiltered.joindns4.eu^
 ||joker81fansbase.site^
 ||opencdn.jomodns.com^
-||jongserver.xyz^
 ||adguard1.jsanagustin.net^
 ||jsmapper.com^
 ||dns.jstockley.com^
@@ -2263,7 +2250,6 @@
 ||doh.kooman.org^
 ||korzhov.dev^
 ||dns.kosan.moe^
-||www-pro.kosite.net^
 ||koxy.de^
 ||atomic-silverfish-hegrigg-01e75fa6.koyeb.app^
 ||horrible-mala-mapmath-8d242314.koyeb.app^
@@ -2306,8 +2292,6 @@
 ||classroom.google.lang.hm^
 ||shop.lang.hm^
 ||lantern.io^
-||bensmells.laoxz.cn^
-||drive.google.com.laoxz.cn^
 ||ik-heet-henk.laptopy.nl^
 ||largero.com^
 ||dns.lars-lehmann.net^
@@ -2328,7 +2312,6 @@
 ||alumn.history.ldop.com^
 ||le-vpn.com^
 ||adguard1.leadmon.net^
-||adguard.leadseason.eu^
 ||free.learnbiology.one^
 ||dingaling.leasingindia.com^
 ||unibrow.leasingindia.com^
@@ -2362,7 +2345,6 @@
 ||likeproxy.com^
 ||limevpn.com^
 ||limitlessproxy.com^
-||silly.lindhesidan.se^
 ||www-pa.linkall.uk^
 ||linkideo.com^
 ||linkmefree.net^
@@ -2469,14 +2451,12 @@
 ||msc.mcafee.com^
 ||safeconnect.mcafee.com^
 ||pluhbruh.mctwisted.pro^
-||contact.meatbytes.com^
 ||adguard.meddy94.de^
 ||mediahint.com^
 ||mediavpn.com^
 ||dns.meeo.win^
 ||testguard.meexx.de^
 ||mega123proxy.com^
-||helpdesk.megaingenieria.com^
 ||meganerd.nl^
 ||megaproxy.biz^
 ||megaproxy.com^
@@ -2487,7 +2467,6 @@
 ||www-admin.mehtionthebeat.com^
 ||peepod.meicosoft.com^
 ||play.meicosoft.com^
-||support.meicosoft.com^
 ||httpdns.meituan.com^
 ||httpdnsvip.meituan.com^
 ||dns.melvin2204.nl^
@@ -2557,16 +2536,13 @@
 ||freednsafraidorg.mooo.com^
 ||propeller.catapzlt.rohu.mooo.com^
 ||skibidilibidimibidi.mooo.com^
-||thanks-pie-for-the-links.mooo.com^
 ||morbitzer.de^
 ||morevpn.com^
-||history-of-war.morgeweb.com^
 ||movieproxy.com^
 ||vpn.mozilla.org^
 ||dns.mrkaran.dev^
 ||sail.msg.boats^
 ||msr177.com^
-||dns.msxnet.ru^
 ||mtagprox.com^
 ||dns.mtoo.vip^
 ||mtpro.xyz^
@@ -2751,7 +2727,6 @@
 ||ninjacloak.com^
 ||ninjavpn.io^
 ||ninjaweb.xyz^
-||nirbytes.com^
 ||doh.niyawe.de^
 ||njal.la^
 ||njtzzrvg0lwj3bsn.info^
@@ -2781,7 +2756,6 @@
 ||o2comm-prd.norton.com^
 ||spoc.norton.com^
 ||the.norushcharge.com^
-||notapr0xy.com^
 ||easyschool.notesninjas.com^
 ||dns.notjakob.com^
 ||notlong.com^
@@ -2875,7 +2849,6 @@
 ||fun.onlytruelegendscanseethe.pics^
 ||onweb.info^
 ||onyx7.com^
-||rammerhead.oops.wtf^
 ||uhm.sorry.oops.wtf^
 ||hk2.ooroot.com^
 ||jp2.ooroot.com^
@@ -3041,7 +3014,6 @@
 ||education.pitlobra.ro^
 ||study.pitlobra.ro^
 ||calitech.pits.cl^
-||watch-you.now.pits.cl^
 ||pixelprivacy.com^
 ||pixolium.com^
 ||dns.pizzari.me^
@@ -3144,14 +3116,12 @@
 ||nl.dns.privex.io^
 ||privoxy.org^
 ||pro-tower.com^
-||chinesekidscheeksarentsafearoundme.procrastin.ar^
 ||skill.basic.professionalconcepts.net^
 ||prointern.info^
 ||project-evoex.de^
 ||dns.propheci.xyz^
 ||edu.prostitutki-na-vyezd.com^
 ||prostovpn.org^
-||sisnzusnaiziamsizjsmsizisnsixjnduxhsns.protelecon.com^
 ||vpn-api.proton.me^
 ||protonstatus.com^
 ||protonvpn.ch^
@@ -3310,7 +3280,6 @@
 ||proxysite.video^
 ||proxysitelist.net^
 ||proxysneak.com^
-||proxysurfing.org^
 ||proxythis.info^
 ||proxytime.net^
 ||proxytitan.com^
@@ -3321,7 +3290,6 @@
 ||proxyvpnserver.com^
 ||proxyway.com^
 ||proxywebtunnel.com^
-||f1.psgl.cl^
 ||psiphon.ca^
 ||psiphon3.com^
 ||dns.psociety.de^
@@ -3403,7 +3371,6 @@
 ||thiscopyofartclassisnotgenuine.rare1k.space^
 ||emby.rasp.tv^
 ||iamsteve.raspberryip.com^
-||ixlclever.raspberryip.com^
 ||rateavon.je^
 ||ratecuts.us^
 ||dns.rayanbab.com^
@@ -3630,7 +3597,6 @@
 ||httpdns.n.shifen.com^
 ||dns.shimul.me^
 ||do.shimul.me^
-||shells.shokodeal.ru^
 ||shopping-website.us^
 ||shopproxy.net^
 ||adguard.shoupperuser.com^
@@ -3644,7 +3610,6 @@
 ||pigs.siglent.ru^
 ||dns.silen.org^
 ||dns.silentlybren.com^
-||merge.silvaharo.com^
 ||northhigh.simplecharity.com^
 ||the.simplecharity.com^
 ||create.simpleplantdesign.com^
@@ -3687,8 +3652,6 @@
 ||sitework.info^
 ||ofer.ox.sjtech.org^
 ||iproyal.sjv.io^
-||counseling.skamaria.co^
-||study.skamaria.com^
 ||skibidislicers.xyz^
 ||lol.skibiditoi.lat^
 ||dns.skrep.eu^
@@ -3760,7 +3723,6 @@
 ||squidproxyserver.com^
 ||squirrelvpn.com^
 ||sriedmueadguard.casa^
-||chat.digimaster.srv.br^
 ||adbox-v8.srv64.de^
 ||adguard.sscw.win^
 ||ssh-free.com^
@@ -4212,7 +4174,6 @@
 ||starvpn.com^
 ||idea.graph.statboss.com^
 ||staticnetcontent.com^
-||inspiration.stationerycrafts.shop^
 ||stayhidden.net^
 ||stealthvpn.com^
 ||stealthy.co^
@@ -4301,7 +4262,7 @@
 ||swapip.com^
 ||swiftshieldvpn.com^
 ||swissvpn.net^
-||switch.ch^
+||dns.switch.ch^
 ||switchvpn.com^
 ||switchvpn.net^
 ||swordvpn.com^
@@ -4326,7 +4287,6 @@
 ||httpdns.danuoyi.tbcache.com^
 ||tbjr6.com^
 ||tbunet.com^
-||its-spatter.blood-spatter.tcm-studios.info^
 ||tcpvpn.com^
 ||dns1.techeasy.org^
 ||vpn.technicule.info^
@@ -4470,7 +4430,6 @@
 ||torservers.net^
 ||torsona.com^
 ||torvpn.com^
-||sushi.tosochilemat.cl^
 ||totallyacdn.com^
 ||totalvpn.com^
 ||doh.totoro.pub^
@@ -5208,6 +5167,7 @@
 ||zoogvpn.com^
 ||zorrovpn.io^
 ||calculus.zothow.com^
+||zougloub.eu^
 ||zpath.net^
 ||zpn.im^
 ||zproxy.de^

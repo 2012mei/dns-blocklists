@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 19:46 UTC
-# Version: 2025.0915.1946.14
+# Last modified: 17 Sep 2025 19:23 UTC
+# Version: 2025.0917.1923.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1475
+# Number of entries: 1474
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -160,6 +160,7 @@ local=/nvi-dns.bitdefender.net/
 local=/ore-dns.bitdefender.net/
 local=/tky-dns.bitdefender.net/
 local=/dns.bitservices.io/
+local=/adguard.bitteeinbyte.de/
 local=/dns-tls.bitwiseshift.net/
 local=/2.dnscrypt-cert.blahdns.com/
 local=/doh.blahdns.com/
@@ -308,7 +309,7 @@ local=/dns.csswg.org/
 local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
-local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/dns.d4d.moe/
@@ -584,7 +585,6 @@ local=/fidelius.top/
 local=/dns.filipccz.eu/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
-local=/dns.flightspace.net/
 local=/dns01.flm9.net/
 local=/ns1.flodns.net/
 local=/ns2.flodns.net/
@@ -811,7 +811,6 @@ local=/eu1.dns.lavate.ch/
 local=/us1.dns.lavate.ch/
 local=/iterator.lazada.com/
 local=/adguard1.leadmon.net/
-local=/adguard.leadseason.eu/
 local=/adblock.leenit.kr/
 local=/yarp.lefolgoc.net/
 local=/br.servers.legat.ml/
@@ -911,7 +910,6 @@ local=/dns.moonssif.com/
 local=/morbitzer.de/
 local=/dns.mrkaran.dev/
 local=/msr177.com/
-local=/dns.msxnet.ru/
 local=/dns.mtoo.vip/
 local=/ns.mtsoln.com/
 local=/dns.mullvad.net/
@@ -1323,7 +1321,7 @@ local=/dns.surfshark.com/
 local=/dns.surfsharkdns.com/
 local=/dns.sv-zauner.at/
 local=/dns.svoi.dev/
-local=/switch.ch/
+local=/dns.switch.ch/
 local=/dns.sy.st/
 local=/dns.syaifullah.com/
 local=/ibksturm.synology.me/
@@ -1482,6 +1480,7 @@ local=/dns.zemows.industries/
 local=/adguard-kartoffel.zernico.de/
 local=/dns.zfsystem.tech/
 local=/doh.zknt.org/
+local=/zougloub.eu/
 local=/dns.zui.lol/
 local=/httpdns.zybang.com/
 local=/dns.zzuhacker.cn/

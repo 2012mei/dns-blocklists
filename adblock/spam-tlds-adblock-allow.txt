@@ -353,6 +353,7 @@
 @@||eufh.online^
 @@||flexilead.online^
 @@||geoigarape.online^
+@@||grapheneos.online^
 @@||instructions.online^
 @@||manuals.online^
 @@||open.online^
@@ -470,11 +471,13 @@
 @@||heyflow.site^
 @@||i5i.site^
 @@||kaylees.site^
+@@||miteru.site^
 @@||notion.site^
 @@||onrocket.site^
 @@||platformsh.site^
 @@||privacy-test-pages.site^
 @@||reddit-doesnt-like-this.site^
+@@||shopapps.site^
 @@||srht.site^
 @@||toast.site^
 @@||wishonly.site^
@@ -504,6 +507,7 @@
 @@||ocr.space^
 @@||oldbytes.space^
 @@||qwik.space^
+@@||roguecorp.space^
 @@||scurra.space^
 @@||searx.space^
 @@||slashtw.space^

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Sep 2025 18:31 UTC
-# Version: 2025.0915.1831.38
+# Last modified: 17 Sep 2025 18:30 UTC
+# Version: 2025.0917.1830.21
 # Syntax: Domains (without subdomains)
-# Number of entries: 2134
+# Number of entries: 2133
 #
 000a.de
 000free.us
@@ -994,6 +994,7 @@ fotos.lc
 fotosdefrases.com
 fr.gp
 fr.nf
+framer.app
 free.bg
 free.cr
 free.lc
@@ -1077,7 +1078,6 @@ get-blogging.com
 getblogs.net
 getenjoyment.net
 getresponsesite.com
-gg123.vip
 gigarocket.net
 gilde.in
 gildenseite.de
@@ -1109,7 +1109,6 @@ great-site.net
 greatnow.com
 grecofioredesigns.shop
 greecemar.shop
-greekstatus.shop
 grwebsite.com
 gta.team
 gtempurl.com

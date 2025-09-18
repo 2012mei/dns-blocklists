@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757961060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1758133800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Sep 2025 18:31 UTC
-; Version: 2025.0915.1831.38
+; Last modified: 17 Sep 2025 18:30 UTC
+; Version: 2025.0917.1830.21
 ; Syntax: RPZ
-; Number of entries: 4268
+; Number of entries: 4266
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -39,6 +39,8 @@ qu.am CNAME .
 *.4everland.app CNAME .
 csb.app CNAME .
 *.csb.app CNAME .
+framer.app CNAME .
+*.framer.app CNAME .
 lovable.app CNAME .
 *.lovable.app CNAME .
 teleporthq.app CNAME .
@@ -3939,8 +3941,6 @@ grecofioredesigns.shop CNAME .
 *.grecofioredesigns.shop CNAME .
 greecemar.shop CNAME .
 *.greecemar.shop CNAME .
-greekstatus.shop CNAME .
-*.greekstatus.shop CNAME .
 harise.shop CNAME .
 *.harise.shop CNAME .
 helpfri.shop CNAME .
@@ -4241,8 +4241,6 @@ bateicpoint.vip CNAME .
 *.bateicpoint.vip CNAME .
 bgydnb.vip CNAME .
 *.bgydnb.vip CNAME .
-gg123.vip CNAME .
-*.gg123.vip CNAME .
 gtsepress.vip CNAME .
 *.gtsepress.vip CNAME .
 imtokne.vip CNAME .
