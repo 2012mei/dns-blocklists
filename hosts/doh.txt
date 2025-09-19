@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Sep 2025 19:23 UTC
-# Version: 2025.0917.1923.57
+# Last modified: 18 Sep 2025 19:53 UTC
+# Version: 2025.0918.1953.41
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1631
+# Number of entries: 1638
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -379,6 +379,7 @@
 0.0.0.0 cubedns.com
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
+0.0.0.0 dns.cybertonic.tech
 0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
@@ -694,6 +695,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns01.flm9.net
@@ -1060,6 +1062,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net
@@ -1284,9 +1287,13 @@
 0.0.0.0 princez.uk
 0.0.0.0 agh.printk.info
 0.0.0.0 hungary.privacy-dns.pw
+0.0.0.0 india.privacy-dns.pw
 0.0.0.0 las-vegas.privacy-dns.pw
 0.0.0.0 luxembourg.privacy-dns.pw
 0.0.0.0 romania.privacy-dns.pw
+0.0.0.0 sweden.privacy-dns.pw
+0.0.0.0 switzerland.privacy-dns.pw
+0.0.0.0 united-arab-emirates.privacy-dns.pw
 0.0.0.0 dns.privado.ovh
 0.0.0.0 orpi.privado.ovh
 0.0.0.0 de.dns.privex.io
